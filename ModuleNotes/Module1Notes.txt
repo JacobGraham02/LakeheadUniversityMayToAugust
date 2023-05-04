@@ -1,0 +1,455 @@
+In French a simple sentence will always be composed like the following:
+	Writing French accents with an international keyboard:
+		To type accent grave á, é, etc. type the ` character then the vowel
+		To type accent aigu é type the character ' then e
+		To type Cédille ç type the character ' then c
+		To type Circonflexe ê type the character ^ then e
+		To type Tréma ö type the character " then o
+		To type French quotation marks use the following: ctrl + alt + [ = « and ctrl + alt + ] = »
+	
+		
+	Subject + Conjugated verb + a complement
+	
+	Conjugated verbs are verbs which have been changed to communicate one or more of the following: person, number, gender, tense, aspect, mood, or voice. 
+	A verb is a word that describes what the subject of a sentence is doing. Verbs can indicate actions, occurences, and states of being. 
+	
+	The predicate of a sentence is one of the two main sentence components along with the subject. The predicate provides information about the subject, describing what the subject is doing or what is being said about it. 
+	
+	
+	E.g.:
+		Jeffrey BUILDS a house
+		Anita IS THINKING about horses
+		True love EXISTS
+	
+	The complement is a description of something (adjectives, nouns, etc.). 
+	Conjugate is what you do to a word to make it agree with other words in a sentence. 
+	Conjugation in French refers to the process of altering the form of a verb to indicate various grammatical aspects such as tense, mood, voice, person, and number.
+	
+	Je suis professeur			| I am a teacher			'Je' is the subject; 'suis' is the verb conjugated depending on 'Je' 
+	Elle a 48 ans
+	Marc adore le chocolat		| Marc loves the cholocate  'Marc' name; therefore, 'adore' is conjugated depending on Marc. 
+
+	
+	
+	A pronoun replaces a noun in order to avoid repetition. Subject pronouns are subjects of verbs. In French, a subject pronoun is immediately or almost immediately followed by its verb. The use of subject pronouns is mandatory
+	in French; always use a subject pronoun to construct sentences in the absence of a noun subject. Here are the French subject pronouns:
+	E.g.
+	
+	je / j' = I
+	Tu 		= You (Informal)
+	Elle 	= She
+	Il		= He
+	On		= One/we (Colloquial)
+	Nous	= We
+	Vous	= You (Formal or you as a group)
+	Elles 	= They (Plural feminine)
+	Ils		= They (Plural masculine)
+	
+	
+	Conjugaison
+	
+		Verbes pronominaux / pronominal verbs or reflexive verbs
+		The pronominal verbs are structured with a reflexible pronoun << se >> = se lever. This pronoun will always agree with the subject. For example, je me lève (I get up myself).
+		
+	
+		In French when you introduce yourself, you would say 'Je m'appelle Jacob' -> I call myself Jacob
+		Tu t'appelles -> "What do you call yourself?". t'appelles is a conjugated form of the reflexible verb "s'appeler" which means 'to call oneself' or 'to be called' in English. 
+		
+		In French, verbs change their forms to match different subjects, tenses, and moods. These modified forms are called conjugated forms. Conjugation is the process of altering the verb to agree with the subject 
+		and express various grammatical aspects. Verbs can be conjugated in different tenses and moods. Each tense and mood has its own set of conjugated forms. 
+		
+		For example, the verb 'parler' (to speak) in the present tenths can be conjugated as follows:
+			Je parle  			(I speak)
+			Tu parles 			(You speak)
+			Il/Elle parle		(He/She speak)
+			Nous parlons		(We speak)
+			Vous parlez			(You speak)
+			Ils/Elles parlent 	(They speak)
+		
+		First person  - I
+		Second person - You
+		Third person  - He
+			
+
+		The endings -e, -z, -t, -s, and -ent are different forms of verb endings in French, and they indicate conjugation patterns based on the subject and tense. Here's a breakdown of their usage:
+
+		-e: This ending is typically found in the first-person singular form (je) of verbs in various tenses. For example:
+			Je parle (I speak)
+			Je mange (I eat)
+			Je chante (I sing)
+			
+		-z: This ending is present in the second-person plural form (vous) of verbs in different tenses. For example:
+			Vous parlez (You [plural] speak)
+			Vous mangez (You [plural] eat)
+			Vous chantez (You [plural] sing)
+			
+		-t: This ending appears in the second-person singular form (tu) of verbs in certain tenses. For example:
+			Tu parles (You [singular] speak)
+			Tu manges (You [singular] eat)
+			Tu chantes (You [singular] sing)
+			
+		-s: This ending is seen in the third-person singular form (il/elle/on) of verbs in the present tense for regular -er verbs. For example:
+			Il parle (He speaks)
+			Elle mange (She eats)
+			On chante (One/We sing)
+			
+		-ent: This ending is used in the third-person plural form (ils/elles) of verbs in different tenses. For example:
+			Ils parlent (They speak)
+			Elles mangent (They eat)
+			Ils chantent (They sing)		
+		
+		Singular verb endings:
+			For regular -er verbs:
+				Je (I): -e
+				Tu (You): -es
+				Il/elle/on (He/she/one): -e
+			For regular -ir verbs:
+				Je (I): -is
+				Tu (You): -is
+				Il/elle/on (He/she/one): -it
+			For regular -re verbs:
+				Je (I): -s
+				Tu (You): -s
+				Il/elle/on (He/she/one): -t
+				Plural verb endings:
+		Plural verb endings:
+			For regular -er verbs:
+				Nous (We): -ons
+				Vous (You): -ez
+				Ils/elles (They): -ent
+			For regular -ir verbs:
+				Nous (We): -issons
+				Vous (You): -issez
+				Ils/elles (They): -issent
+			For regular -re verbs:
+				Nous (We): -ons
+				Vous (You): -ez
+				Ils/elles (They): -ent
+			
+		
+	In French, the most common verb endings depend on the type of verb. Here are the endings for the three main verb groups:
+		1. Regular -er verbs:
+		   - Singular: -e, -es
+		   - Plural: -e, -ons, -ez, -ent
+		   The verb ending e is used as a singular ending for the first-person present tense conjugation (je/I) of regular -er verbs. 
+		   The verb ending es is used as a singular ending for the second-person present tense conjugation (tu/you) of regular -er verbs. 
+		   
+		   The verb ending ons is used as a plural ending for the first-person present tense conjugation (nous/we) of regular -er, -ir, and -re verbs.
+		   The verb ending ez is used as a plural ending for the second-person present tense conjugation (vous/you) of regular -er, -ir, and -re verbs.
+		   The verb ending ent is used as a plural ending for the third-person present tense conjugation (ils/elles/they) of regular -er, -ir, and -re verbs. 
+
+		Example: Parler (to speak)
+		- Je parle (I speak)
+		- Tu parles (You speak)
+		- Il/elle/on parle (He/she/one speaks)
+		- Nous parlons (We speak)
+		- Vous parlez (You speak)
+		- Ils/elles parlent (They speak)
+
+		2. Regular -ir verbs:
+		   - Singular: -is, -is
+		   - Plural: -it, -issons, -issez, -issent
+
+		Example: Finir (to finish)
+		- Je finis (I finish)
+		- Tu finis (You finish)
+		- Il/elle/on finit (He/she/one finishes)
+		- Nous finissons (We finish)
+		- Vous finissez (You finish)
+		- Ils/elles finissent (They finish)
+
+		3. Regular -re verbs:
+		   - Singular: -s, -s
+		   - Plural: -t, -ons, -ez, -ent
+
+		Example: Vendre (to sell)
+		- Je vends (I sell)
+		- Tu vends (You sell)
+		- Il/elle/on vend (He/she/one sells)
+		- Nous vendons (We sell)
+		- Vous vendez (You sell)
+		- Ils/elles vendent (They sell)
+		
+		The verb "avoir" (to have) conjugates differently in each person. Here are the first, second, and third-person forms of the verb "avoir" in the present tense:
+
+			First person singular (I): J'ai (I have)
+
+			Second person singular (you): Tu as (you have)
+
+			Third person singular (he/she/it): Il/Elle a (he/she/it has)
+
+			First person plural (we): Nous avons (we have)
+
+			Second person plural (you): Vous avez (you have)
+
+			Third person plural (they): Ils/Elles ont (they have)
+
+			Here are a few example sentences using these conjugations:
+
+				J'ai une voiture. (I have a car.)
+				Tu as un livre. (You have a book.)
+				Il a un chien. (He has a dog.)
+				Nous avons une maison. (We have a house.)
+				Vous avez des amis. (You have friends.)
+				Ils ont des stylos. (They have pens.)
+				
+				These are the present tense forms of "avoir" for the different persons in French.
+
+		The verb "être" (to be) conjugates differently in each person. Here are the first, second, and third-person forms of the verb "être" in the present tense:
+
+			First person singular (I): Je suis (I am)
+
+			Second person singular (you): Tu es (you are)
+
+			Third person singular (he/she/it): Il/Elle est (he/she/it is)
+
+			First person plural (we): Nous sommes (we are)
+
+			Second person plural (you): Vous êtes (you are)
+
+			Third person plural (they): Ils/Elles sont (they are)
+
+			Here are a few example sentences using these conjugations:
+
+				Je suis étudiant(e). (I am a student.)
+				Tu es mon ami. (You are my friend.)
+				Il est médecin. (He is a doctor.)
+				Nous sommes en vacances. (We are on vacation.)
+				Vous êtes très gentils. (You are very kind.)
+				Ils sont français. (They are French.)
+
+				These are the present tense forms of "être" for the different persons in French.
+
+	
+	French alphabet:
+		A - 'ah'
+		B - 'bay'
+		C - 'sey'
+		D - 'dey'
+		E - 'uh'
+		F - 'eff'
+		G - 'jhey'
+		H - 'esh'
+		I - 'ee'
+		J - 'ghee'
+		K - 'kah'
+		L - 'ell'
+		M - 'emm'
+		N - 'enn'
+		O - 'oh'
+		P - 'peh'
+		Q - 'qkoo'
+		R - 'aairh'
+		S - 'ess'
+		T - 'teh'
+		U - 'ooh'
+		V - 'veh'
+		W - 'doo-blah-veh'
+		X - 'eeks'
+		Y - 'eegrek'
+		Z - 'zed'
+		
+	French numbers 1 to 100:
+		
+		
+	An adjactive is a word that describes a noun or a pronoun. In French, an adjective is usually placed after the noun it modifies and must agree in gender and number with the noun. 
+	In French, adjectives are not written with a capital letter. 
+	To get the feminine version of the adjective, you add an -e to the masculine form: français / française.
+	If the name of the adjective of nationality ends with -e, the word stays the same: Paul est suisse / Marie est suisse.
+	For the plural form, you add a -s to the singular form: française / françaises.
+	If the name of the adjective of nationality ends with -s at the singular form, the word stays the same: Paul est français / Paul et Marc sont français.
+	
+	When the 
+	
+	
+GRAMMER - Grammaire
+	Structure de la phrase simple - Simple sentence structure:
+		Sentence structure: Bart is playing football / Bart joue au football
+		
+		1. Who/what performs the action
+		2. The action itself
+		3. What is being performed / acted upon
+		
+		Bart's head is the person, his leg kicking the ball is the action, and the football / soccerball is the thing being acted upon.
+		
+		There are three main jobs that a word/group of words can have in a sentence:
+			Le verbe 				- The doing or action word
+			Le sujet 				- What/who is performing the action
+			Le complément d'objet	- What/who the action is acted upon 
+			
+			Bart (le sujet) joue (le verbe) au football (Le complément d'objet). 
+			
+	When analyzing a sentence, you need to first find the verb (action). Once you have the action, you can find the subject. 
+	
+	Lisa is reading a book
+	1) Find the verb:
+		What is happening
+		What is the action
+		=> is reading
+		
+	2) Find the subject:
+		Who/What + verb
+		Who / what is reading?
+		=> Lisa
+		
+	3) Find the object - This is much easier if you already know the verb and subject:
+		Subject + verb + what? - Lisa is reading what?
+		Sujet + verbe + quoi?
+	
+	Common noun endings for masculine and feminine:
+		Masculine: -age, -ege, -isme, -acle, -eau, -ier, -oir
+		Feminine: -tion, -sion, -ude, -ance, -ence, -ée, -ie
+		
+		
+	Practice sentence structure:
+		Quel est le sujet dans la phrase suivante? 
+		What is the subject in the following sentence? 
+	
+	
+	
+How can you tell if a noun is feminine or masculine? - https://www.youtube.com/watch?v=C8lzZmJm2Qk
+	Every noun has a gender, regardless of singular or plural nouns. 
+	
+	The easiest way to tell the gender of the noun is by looking at the last letter. If the noun ends with an e, the noun is feminine. Nouns which end with any other letter are generally masculine. 
+	We use (le / un) for masculine nouns and (la / une) for feminine nouns. 
+	
+	Some masculine endings: age, ment, eau, oir.
+	Some feminine endings:  tion, sion, té, euse.
+	Feminine endings: -e, -ée, -tion, -sion, -ance, -ence, -ette
+	Masculine endings: -age, -ege, -oir, -isme, -age, -on, -er
+	
+	Sometimes the gender of a noun influences the sentence.
+	
+
+
+Why knowing the gender of a French word is important - https://www.youtube.com/watch?v=Lrroi3X0Y_g:
+	First reason:
+		le (the) and un (a) are used in front of a masculine noun. la (the) and une (a) are used in front of a feminine noun. les (the) and des (some) used in front of a plural noun regardless of gender. 
+		
+		All adjectives agree in number and gender with the noun they qualify. Le stylo vert est petit (the green pen is small).
+		If doing the above sentence in feminine form, you would write La fleur verte est petite (the green flower is small). 
+		In plural form:
+			Les stylos verts sont petits (The green pens are small)
+			Les fleurs vertes sont petites (The green flowers are small)
+			
+		First reason because the gender of a French word determines the order of words in the sentence
+		
+	Second reason:
+		All possessive pronouns and adjectives agree in number and gender with the noun used. 
+		Mon stylo est vert (My pen is green). We use 'Mon' because stylo is masculine. The word is 'vert' instead of 'verte' because the word is masculine instead of feminine. 
+		By extension, we say 'Le mien est vert' (Mine is green) because stylo is masculine.
+		Ma fleur est verte (My flower is green). 
+		La mienne est verte (Mine is green). 
+		
+	Third reason:
+		All demonstrative pronouns and adjectives agree in number and gender with the noun used.
+		
+		
+
+French grammar in 35 minutes - https://www.youtube.com/watch?v=9q7nx6kzvD0:
+	Recap of the grammar course:
+		Le phrase simple - Subject + conjugated verb + article + noun
+		E.g. Je mange une pomme: I am eating an apple. Adding an e character onto un because je is used. Une is the verb in the sentence / noun.
+		Je mange un abricot - Masculine singular
+		Je mange une pomme - I am eating an apple
+		Je mange des carises - I am eating some cherries
+		
+		
+	Gender of nouns:
+		90% of nouns ending with E are feminine. Always study the gender of nouns at the same time as you study vocabulary. 
+		ChatGPT
+
+		Determining the gender of a noun in French can be challenging, as there are few rules that universally apply. However, here are some tips that can help in identifying or making educated guesses about the gender of a noun:
+
+			Pay attention to the ending: While not foolproof, certain noun endings are more commonly associated with a specific gender. For example:
+
+			Masculine endings: -age, -ege, -oir, -isme, -age, -on, -er
+			Feminine endings: -e, -ée, -ion, -sion, -ance, -ence, -ette
+
+		Look for patterns: Certain categories of words tend to have a specific gender. For instance:
+
+			Most nouns referring to males or males of a species are masculine.
+			Nouns denoting female beings or females of a species are typically feminine.
+			Nouns related to professions or occupations often have a specific gender associated with them.
+
+		Learn gender with the noun: When learning new vocabulary, make a conscious effort to learn the noun together with its corresponding gender. For example, instead of just learning "table," learn "une table" (feminine) or 
+		"un livre" (masculine).
+
+		Pay attention to article and adjective agreement: The choice of definite (le, la) and indefinite (un, une) articles, as well as the agreement of adjectives, can give clues about the gender of a noun.
+
+		Be cautious of exceptions: It's important to remember that there are numerous exceptions to gender patterns in French, and many nouns simply need to be learned individually.
+
+		Developing a good understanding of noun gender in French takes time and practice. Engaging with the language through reading, listening, and speaking will gradually improve your ability to determine the gender of nouns. 
+		Additionally, consulting a dictionary or language resource can provide guidance on specific nouns.
+		
+		
+	Le pluriel des noms:
+		When a noun ends with E, OU, AIL, R, T, L, ON, AN, IN, UM, add an s.  (Le pluriel des noms)
+			E.g. Une ville -> Des Villes (Cities)
+		When a noun ends with EAU, AU, EU add an x. 						  (Le pluriel des noms)
+			E.g. Un oiseau -> Des oiseaux (Birds)
+		When a noun ends with AL, add an AUX								  (Le pluriel des noms)
+			E.g. Un cheval (horse) -> Des chevaux (Horses)						
+		When a noun ends with S, X, or Z, add nothing						  (Le pluriel des noms)
+			E.g. Un bras (an arm) -> Des bras (arms)		
+		
+	Subject pronouns (Les pronoms sujets):
+		Singular
+			Je / J' - I
+			Tu		- You
+			Il		- He/It
+			Elle	- She/It
+			On		- We
+		Pluriel
+			Nous	- We
+			Vous	- You
+			Ils		- They
+			Elles	- They
+		
+	Je veux de fromage - Masculine singular (I want some cheese)
+	Je veux de la confiture - Feminine singular (I want some jam)
+	Je veux de l'eau - Singular noun starting with silent h (I want some water)
+	Je veux des croissants - Plural noun regardless of gender (I want some croissants) 
+	
+	C'est is a contraction of Ce est
+	C'est / Ce sont - Il est - For person, things, nationalities, and jobs
+	 C'est une femme (This is a woman)
+	 C'est un homme  (This is a man)
+	 C'est beau		 (It's beautiful)
+	 C'est bien		 (It's good)
+	 
+	Il est is commonly used for third-person singular masculine form.
+	Il est beau (It's beautiful / He is beautiful)
+	Il est deux heures (It's two o'clock)
+	Il est suisse (He is swiss)
+	Il est professeur (He is a teacher)
+	
+	
+	Demonstrating adjectives:
+		Ce - Masculine singular; Cette - Feminine singular; Cet for when adjective starts with silent h; Ces for plural adjectives
+	
+	French numbers:
+		0 - Zéro	10 - Dix				10 - Dix
+		1 - Un		11 - Onze				20 - Vingt
+		2 - Deux	12 - Deuze				30 - Trente
+		3 - Trois	13 - Treize				40 - Quarante
+		4 - Quatre	14 - Quatroze			50 - Cinquante
+		5 - Cinq	15 - Quinze				60 - Soixante
+		6 - Siz		16 - Seize				70 - Soixante-dix
+		7 - Sept	17 - Dix-sept			80 - Quatre-vingt
+		8 - Huit	18 - Dix-huit			90 - Quatre-vingt-dix
+		9 - Neuf	19 - Dix-neuf			100 - Cent
+					20 - Vingt
+					
+	
+	Negation in French - Generally used with 'Ne pas'; used to indicate the abscence or negation of an action, state, or condition.
+		Ne ... pas - Not
+		Ne ... plus - No longer / Not anymore
+		Ne ... jamais - Never
+		Ne ... que - Only
+		Ne ... rien - Nothing
+		Ne ... pas encore - Not yet
+		Ne ... personne - Nobody / No one
+		Ne ... ni ... ni - Neither ... nor
+		
+		Conjugaison au présent: AVOIR/ÊTRE/S'APPELER/verbes réguliers -ER / Present conjugation : HAVE/BE/TO CALL ONESELF / regular verbs -ER
