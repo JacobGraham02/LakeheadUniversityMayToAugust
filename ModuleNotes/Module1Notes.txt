@@ -220,9 +220,8 @@ In French a simple sentence will always be composed like the following:
 
 				These are the present tense forms of "être" for the different persons in French.
 
-	
 	French alphabet:
-		A - 'ah'
+		A - 'ahh'
 		B - 'bay'
 		C - 'sey'
 		D - 'dey'
@@ -249,8 +248,28 @@ In French a simple sentence will always be composed like the following:
 		Y - 'eegrek'
 		Z - 'zed'
 		
-	French numbers 1 to 100:
+		A is prounounced more like 'AY'
+		E is prounounced more like 'Ah' 
+		Ghee is J, G is Jhay.
+		O is pronounced more like 'ooh', E is more like 'oe'. 
+			Bonjour, Je suis trés bien, merci vous de demander. Mon prénom est Jacob et mon nom de famille est Graham. 
+		Anglais est ma angue maternalle et je parle limité français. Je suis vingt-et-un ans et js suis canadienne. 
+		Je habite à Barrie et je aime chats. Mon numéro de téléphone est one duex trois - quatre cinq six - sept huit neuf. 
+			Bonjour, je m'appelle Jacob, merci vous de demander. Je suis Canadienne est je vingt-et-un ans. Mon adresse est quatorze 
+		exemple de rue. Mon numéro de téléphone est un-deux-trois quatre-cinq-siz sept-huit-neuf
 		
+	French numbers 1 to 100:
+		0 - Zéro	10 - Dix				10 - Dix
+		1 - Un		11 - Onze				20 - Vingt
+		2 - Deux	12 - Deuze				30 - Trente
+		3 - Trois	13 - Treize				40 - Quarante
+		4 - Quatre	14 - Quatorze			50 - Cinquante
+		5 - Cinq	15 - Quinze				60 - Soixante
+		6 - Siz		16 - Seize				70 - Soixante-dix
+		7 - Sept	17 - Dix-sept			80 - Quatre-vingt
+		8 - Huit	18 - Dix-huit			90 - Quatre-vingt-dix
+		9 - Neuf	19 - Dix-neuf			100 - Cent
+					20 - Vingt
 		
 	An adjactive is a word that describes a noun or a pronoun. In French, an adjective is usually placed after the noun it modifies and must agree in gender and number with the noun. 
 	In French, adjectives are not written with a capital letter. 
@@ -453,3 +472,36 @@ French grammar in 35 minutes - https://www.youtube.com/watch?v=9q7nx6kzvD0:
 		Ne ... ni ... ni - Neither ... nor
 		
 		Conjugaison au présent: AVOIR/ÊTRE/S'APPELER/verbes réguliers -ER / Present conjugation : HAVE/BE/TO CALL ONESELF / regular verbs -ER
+		
+		
+
+Class lab session on May 05, 2022 at 6:00 pm:
+	French is a very gendered language
+	Pronoms:
+	Je - I
+	Tu - You
+	Elle - She
+	Il - He
+	Iel - They
+	Nous - We
+	Vous - You (Formal in a group)
+	Elles-they (f)
+	Ils-they (m)
+	
+	
+	Comment tu t'appelles? 
+	Comment t'appelles-tu?
+	Comment vous appelez? 
+	Comment vous appelez vous?
+	
+	Quelle est ton adresse? ...votre adresse?
+	Quel est ton numéro de téléphone?... votre numéro..?
+	Quelle est ta nationalité?..votre nationalité?
+	Quel âge as-tu? 
+	Quel âge avez-vous?
+	
+	Never pronounce constants at the end of a sentence. 
+	Proposition must go before different states and provinces. 
+	
+	Most constants at ends of word are not pronounced. We pronounce an(s)-est-e(st):
+	e at the end of words is not pronounced. Telephone is pronounced téléphoN(e) - ruSS(e) - D(e)
