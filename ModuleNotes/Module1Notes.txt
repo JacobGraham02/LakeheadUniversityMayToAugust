@@ -98,7 +98,10 @@ In French a simple sentence will always be composed like the following:
 			Elles mangent (They eat)
 			Ils chantent (They sing)		
 		
-		Singular verb endings:
+
+Note that in compound tenses, "avoir" is used with most verbs to form the passé composé, while a few verbs (such as "aller," "venir," and "partir") use "être" as the auxiliary verb.
+
+	Singular verb endings:
 			For regular -er verbs:
 				Je (I): -e
 				Tu (You): -es
@@ -125,8 +128,48 @@ In French a simple sentence will always be composed like the following:
 				Nous (We): -ons
 				Vous (You): -ez
 				Ils/elles (They): -ent
+				
+	Êtes stands for (to be).
+	"Êtes" is the second-person plural (you all) conjugation of the verb "être" in the present tense in French. 
+	The verb endings for "être" in the present tense are:
+		- Je suis (I am)
+		- Tu es (You are singular, informal)
+		- Il/Elle/On est (He/She/One is)
+		- Nous sommes (We are)
+		- Vous êtes (You are plural, formal or informal)
+		- Ils/Elles sont (They are)
+	In the past tense, the verb "être" uses the auxiliary verb "avoir" to form compound tenses such as the passé composé. 
+	Here are the verb endings for "avoir" in the passé composé with "être" as the auxiliary verb:
+		- Je suis allé(e) (I went, masculine/feminine)
+		- Tu es allé(e) (You went, masculine/feminine)
+		- Il/Elle/On est allé(e) (He/She/One went, masculine/feminine)
+		- Nous sommes allé(e)s (We went, masculine/feminine)
+		- Vous êtes allé(e)(s) (You went, masculine/feminine)
+		- Ils/Elles sont allé(e)s (They went, masculine/feminine)
+	Note that the past participle of "être" is "été", which is used in the passé composé with "avoir". The auxiliary verb "être" 
+	is used with certain verbs of motion, reflexive verbs, and intransitive verbs to form the passé composé, the plus-que-parfait, 
+	and other compound tenses.
+	
+	
+	Here are the verb endings for "avoir" in the present tense and the past tense:
+		Present tense:
+			- J'ai (I have)
+			- Tu as (You have singular, informal)
+			- Il/Elle/On a (He/She/One has)
+			- Nous avons (We have)
+			- Vous avez (You have plural, formal or informal)
+			- Ils/Elles ont (They have)
+		The past tense of "avoir" is used as an auxiliary verb to form compound tenses such as the passé composé. 
+		Here are the verb endings for "avoir" in the passé composé:
+		Past tense:
+			- J'ai eu (I had)
+			- Tu as eu (You had singular, informal)
+			- Il/Elle/On a eu (He/She/One had)
+			- Nous avons eu (We had)
+			- Vous avez eu (You had plural, formal or informal)
+			- Ils/Elles ont eu (They had)
+
 			
-		
 	In French, the most common verb endings depend on the type of verb. Here are the endings for the three main verb groups:
 		1. Regular -er verbs:
 		   - Singular: -e, -es
@@ -220,15 +263,15 @@ In French a simple sentence will always be composed like the following:
 
 				These are the present tense forms of "être" for the different persons in French.
 
-	French alphabet:
+	French alphabet:		A E I O U
 		A - 'ahh'
 		B - 'bay'
 		C - 'sey'
 		D - 'dey'
-		E - 'uh'
+		E - 'uehh'
 		F - 'eff'
-		G - 'jhey'
-		H - 'esh'
+		G - 'ghay'
+		H - 'aesh'
 		I - 'ee'
 		J - 'ghee'
 		K - 'kah'
@@ -241,7 +284,7 @@ In French a simple sentence will always be composed like the following:
 		R - 'aairh'
 		S - 'ess'
 		T - 'teh'
-		U - 'ooh'
+		U - 'ooeeww'
 		V - 'veh'
 		W - 'doo-blah-veh'
 		X - 'eeks'
@@ -257,6 +300,9 @@ In French a simple sentence will always be composed like the following:
 		Je habite à Barrie et je aime chats. Mon numéro de téléphone est one duex trois - quatre cinq six - sept huit neuf. 
 			Bonjour, je m'appelle Jacob, merci vous de demander. Je suis Canadienne est je vingt-et-un ans. Mon adresse est quatorze 
 		exemple de rue. Mon numéro de téléphone est un-deux-trois quatre-cinq-siz sept-huit-neuf
+			Bonjour, je m'appelle jacob. Mon prénom est Jacob et mon nom de famille Graham. Mon prénom est m'épelle ghee-ah-sey-oh-
+			bay et mon nom de famille est m'épelle jhay-eearh
+		et mon nom de famille est m'épelle G R A H A M. Je suis canadienne est je suis vingt-une. Au reviour and bonne journée!
 		
 	French numbers 1 to 100:
 		0 - Zéro	10 - Dix				10 - Dix
@@ -505,3 +551,58 @@ Class lab session on May 05, 2022 at 6:00 pm:
 	
 	Most constants at ends of word are not pronounced. We pronounce an(s)-est-e(st):
 	e at the end of words is not pronounced. Telephone is pronounced téléphoN(e) - ruSS(e) - D(e)
+	
+	s'appeler (to call oneself):
+		ja m'appelle
+		tu t'appelles
+		elle/il s'appelle
+		nous nouus appelons 
+		vous vous appelez
+		elles/ils sáppellent
+		
+	être (to be):
+		je suis
+		tu es
+		elle/il est
+		nous sommes
+		vous êtes
+		elles/ils sont
+		
+	to have - avoir:
+		j'ai
+		tu as
+		elle/il a 
+		nous avons
+		vous avez
+		elles/ils ont
+		
+	
+	Pronounciation:
+		Most consonnants at the end of words are not pronounced: ans-an(s) est-e(st)
+		"e" at the end of words is not pronounced téléphoN(e) - ruSS(e) - D(e)
+		
+		
+Class discussion thread for presenting yourself:
+	Bonjour, Je suis trés bien, merci vous de demander. Mon prénom est Jacob et mon nom de famille est Graham. Anglais est ma angue maternalle et je parle limité français. 
+	Je suis vingt-et-un ans et js suis canadienne. Je habite à Barrie et je aime chats. Mon numéro de téléphone est one duex trois - quatre cinq six - sept huit neuf. 
+	
+	Corrected paragraph: 
+		Bonjour, je vais très bien, merci de demander. Mon prénom est Jacob et mon nom de famille est Graham. Ma langue maternelle est l'anglais et je parle un peu français. 
+		J'ai vingt-et-un ans et je suis canadien. J'habite à Barrie et j'aime les chats. Mon numéro de téléphone est un deux trois - quatre cinq six - sept huit neuf
+		
+	Mistakes:
+		je vais très bien: In French, you would say " I am going well"
+
+		Be careful with the structure of your sentences:
+
+		"ma langue maternelle est l'anglais
+
+		j'ai 21 ans : in French you say "I have 21 years"
+
+		je suis canadien (masculin)
+
+		j'habite-j'aime : contraction because of the 2 vowels
+
+		J'aime les chats: there is an article before the noun
+
+		un-deux : be careful with the spelling of your numbers

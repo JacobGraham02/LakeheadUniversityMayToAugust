@@ -1,0 +1,499 @@
+Definite articles in French:
+	Four forms:
+		Le
+		La
+		L'
+		Les
+		
+	Le - Masculine words starting with a consonnant;
+		Le stylo ; masculine singular and starts with a consonant. 
+		Le bus ; Following the same rule as above
+		
+	La - Feminine words starting with a consonnant;
+		La voiture ; feminine singular representing 'the car'
+		La crème ; feminine singular representing 'the cream'
+		La télé ; feminine singular representing 'the tv' 
+		
+	L' - Masculine or feminine words starting with a vowel - singular;
+		L' arbre ; 'the tree'   masculine
+		L' oiseau ; 'the bird'  masculine
+		L' eau ; 'the water'    feminine
+	
+	Les - Plural words regardless of masculine or feminine;
+		Les bus ; 'the bus'
+		Les oiseaux ; 'x to indicate the word is plural' 
+		Les voitures ; 
+		
+	Almost all of the time, feminine words will have an ending of the letter 'e'. 
+	Differences:
+		President John Smith - Le président John Smith
+		France				 - La France
+		French people		 - Les Français
+		
+	
+	Contractions:
+		To the...
+			à le  - spelled as au 
+			à la  - no contraction so spelled as is
+			à les - aux   
+			
+		Of the...
+			de le  - du 
+			de la  - no contraction to spelled as-is
+			de les - des
+			
+	Typically masculine noun endings (+90%):
+		-an, -and, -ant, -ent, -in, -int, -om, -ond, -ont, -on (but not after s/c¸)
+		-eau, -au, -aud, -aut, -o, -os, -ot
+		-ai, -ais, -ait, -es, -et
+		-ou, -out, -out, -oux
+		-i, -il, -it, -is, -y
+		-at, -as, -ois, -oit
+		• -u, -us, -ut, -eu
+		-er, -é after C (C=t)
+		-age, -ege, – ème, -ome, -aume, -isme
+		-as, -is, -os, -us, -ex
+		-it, -est
+		-al, -el, -il, -ol, -eul, -all
+		-if, -ef
+		 -ac, -ic, -oc, -uc
+		-am, -um, -en
+		-air, -er, -erf, -ert, -ar, -arc, -ars, -art, -our, -ours, -or, -ord, -ors, -ort, -ir, -oir, -eur
+		(if animate)
+		-ail, -eil, -euil, -ueil
+		-ing
+
+	Typically feminine noun endings (+90%)
+		 -aie, -oue, -eue, -ion, -te, – ée, -ie, -ue
+		-asse, -ace, -esse, -ece, -aisse, -isse/-ice, -ousse, -ance, -anse, -ence, -once
+		 -enne, -onne, -une, -ine, -aine, -eine, -erne
+		-ande, -ende, -onde, -ade, -ude, -arde, -orde
+		-euse, -ouse, -ase, -aise, -ese, -oise, -ise, -yse, -ose, -use
+		 -ache, -iche, -eche, -oche, -uche, -ouche, -anche
+		-ave, -eve, -ive
+		 -iere, -ure, -eure
+		-ette, -ete, – ête, -atte, -otte, -oute, -orte, -ante, -ente, -inte, -onte
+		-alle, -elle, -ille, -olle
+		-aille, -eille, -ouille
+		-appe, -ampe, -ombe
+		-igue
+
+
+
+	In French, a definite article is a word that precedes a noun and specifies the identity of the noun. The definite articles in French are "le" (masculine singular), "la" (feminine singular), "l'" 
+	(used instead of "le" or "la" before a vowel or silent "h"), and "les" (plural, regardless of gender).
+			
+			
+			
+	Most feminine noun endings:
+		The majority of words that end in -e or -ion
+		Endings with the letter r
+		ette, euse, ienne, (i)ère, ice, elle, esse, ance, ence, ée, ure, ise, ade, ie, t(i)é, ine, aille, onne, tion, ille, aison, sion, alle, ale, ace, ude
+	
+	Most masculine verb endings:
+		The majority of words that end in -age, -ege, -é, -isme
+		age, isme, ien, ier, eau, tre, ème, et, cle, ège, ing, cre, ment, oir, ou, eu, eil, as, lon, ot, al, aire
+		
+	If a noun/verb in singular form is feminine or masculine, their corresponding plural form will also be masculine or feminine. 
+Forms:
+	In French, few nouns can stand alone. Most need to be introduced or 'determined' by an article. As in English, an article is characterized as either definite ('the') or indefinite ('a', 'an'). 
+	In addition, French articles are also masculine or feminine, singular or plural, according to the gender and number of the noun they determine. Here are the definite articles in French:
+		Masculine singular: le (l') 	  	Tex le tatou
+		Joe-Bob l'écureuil 	  	Tex the armadillo
+		Joe-Bob the squirrel
+		Feminine singular: la (l') 	  	Bette la chatte
+		l'Université du Texas 	  	Bette the cat (female)
+		The University of Texas
+		Masculine and feminine plural: les 	  	les tatous
+		les écureuils
+		les chats
+		les universités 	  	the armadillos
+		the squirrels
+		the cats
+		the universities
+		
+		
+élision and liaison:
+	In the examples above, note that le and la both become l' when they precede a noun beginning with a vowel or a silent h: l'escargot, l'université. This is called elision.
+
+	Unlike le and la, les does not have a contracted, reduced form. When les is followed by a word starting with a vowel, the normally silent final s of les is pronounced, making a /z/ sound. 
+	This additional sound linking two words is called liaison. Listen to the following examples:	
+		Compulsory liaison with a vowel or silent h 	No liaison with a consonant
+		les insectes
+		les animaux
+		les hommes 	les tatous
+		les fourmis
+		
+	Note that elision and liaison occur with most words starting with h: l'homme, les hommes, l'hiver, les hivers. Exceptions to this rule are words beginning with an aspirate 'h'. 
+	
+	
+to identify a specific noun:
+	The definite article is used to identify a specific noun or to refer to a noun that has already been specified.
+		Corey: Tu connais la tour de l'Université du Texas? 	Corey: Do you know the UT Tower?
+		Tex: Bien sûr, c'est le symbole de l'Université! 	  	Tex: Of course, it is the symbol of the University!
+		Corey: Et la Sixième rue? 	  							Corey: What about Sixth street?
+		Tex: Eh bien, c'est les Champs-Elysées d'Austin! 	  	Tex: Well, it's the Champs-Elysees of Austin.
+
+to express general truths or concepts:
+	French uses the definite article to express general truths or concepts. English, in contrast, uses no article at all. Compare the following sentences:
+		Tex: L'argent ne rend pas l'homme heureux! 	  						Tex: Money does not make man happy!
+		Tammy: Tu as raison. L'amour et la santé sont plus importants! 	  	Tammy: You are right. Love and health are more important!
+		Tex: Bien sûr, pour les insectes et les animaux, l'argent n'existe pas! Mais l'amour est aussi important pour nous que pour les humains. Ah oui ... l'amour l'amour, toujours l'amour! 	  	
+		Tex: Of course, for insects and animals, money does not exist! But love is as important for us as it is for humans. Ah, yes, love, love, love, always love!
+		
+
+to express likes and dislikes:
+	The French also use the definite article with verbs of preference, such as aimer, préférer, détester. Once again, English omits the article in such general statements. For example:
+		Tex adore les croissants. 	  	Tex loves croissants.
+		Joe-Bob préfère les doughnuts. 	  	Joe-Bob prefers doughnuts.
+		Tammy n'aime pas le café. 	  	Tammy does not like coffee.
+		Edouard apprécie la bonne cuisine française. 	  	Edouard appreciates good French cuisine.
+		tammy va en cours
+
+
+to indicate habitual recurrence
+	The definite article is used in French with moments of the day, days of the week, and seasons to indicate habitual recurrence. For example: 	
+		Le matin, Tammy va en cours. 	  	Every morning, Tammy goes to class.
+		L'après-midi, elle va à la bibliothèque. 	  	Every afternoon, she goes to the library.
+		Le lundi, Tex fait son jogging. 	  	On Mondays, Tex goes for a jog.
+		L'été, il se baigne avec Tammy à Barton Springs. L'hiver, il skie à Purgatory. 	  	Every summer, he bathes with Tammy at Barton Springs. Every winter, he skis in Purgatory.
+
+
+in a series:
+	The article is usually repeated in a series, in contrast to English. For example: 	
+		Tammy: Tex, aide-moi à mettre la table! Apporte les assiettes, les couteaux, les verres, les serviettes et le vin. 	  	Tex, help me set the table! Bring the plates, knives, glasses, napkins, and wine.
+
+
+no article:
+	Cities usually do not require an article in French. For example: 	
+	Tex habite à Austin. 	  	Tex lives in Austin,
+	mais il préfère Paris. 	  	but he prefers Paris.
+
+
+Continents, countries, states, regions, and oceans usually require an article (l'Afrique, la France, le Texas, la Bourgogne, l'Atlantique etc.), but there are a few exceptions, usually islands: Haïti, Israël, Madagascar. 
+See prepositions with place names for more information.
+
+Months never require an article: janvier, février, mars, etc.:
+	Cependant Tex adore mars à Austin. 	  	Nevertheless Tex adores March in Austin.
+
+
+Days of the week do not require an article in instances where they do not indicate habitual recurrence. For example: 	
+	Lundi, il a rendez-vous avec Tammy. 	  	Monday he has a date with Tammy.
+
+
+Listen to the dialogue:
+	Tammy: J'aime beaucoup le français. C'est la langue de Molière et de Hugo, et surtout c'est la langue maternelle de Tex! 	  	Tammy: I like French a lot. It is the language of Molière and of Hugo, and above all it is the mother tongue of Tex!
+	Bette: Alors comme ça Tammy, tu aimes bien les Français? 	  	Bette: So Tammy, you really like French men?
+	Tammy: Oh oui! Surtout les Français qui portent le béret! 	  	Tammy: I sure do! Especially French men who wear a beret!
+	
+	
+	
+
+
+
+
+
+
+
+An indefinite article is a word used to introduce a noun that refers to any member of a general category, rather than a particular or specific one. In French, 
+the indefinite articles are "un" for masculine singular nouns, "une" for feminine singular nouns, and "des" for plural nouns, regardless of gender.
+
+
+In French, few nouns can stand alone. Most need to be introduced or 'determined' by an article. As in English, an article is characterized as either definite ('the') or indefinite ('a', 'an'). In French, 
+articles are also masculine or feminine, and singular or plural, according to the gender and number of the noun they determine. Here are the indefinite articles in French:
+	masculine singular: un 	  	Tex est un tatou.
+	Joe-Bob est un écureuil. 	  	Tex is an armadillo.
+	Joe-Bob is a squirrel.
+	feminine singular: une 	  	Bette est une chatte.
+	UT est une université 	  	Bette is a cat. (female)
+	UT is a university.
+	plural: des 	  	des tatous
+	des écureuils
+	des chats
+	des universités 	  	(some) armadillos
+	(some) squirrels
+	(some) cats
+	(some) universities
+	la résidence jester
+
+In the examples above, listen carefully to the difference in pronunciation of un and des before words beginning with a consonant (un tatou, des tatous) and before a words beginning with a vowel sound 
+(un écureuil, des écureuils). These are examples of liaison.
+
+uses
+	As the English 'a' 'an' or 'some', the indefinite articles un, une, des refer to nouns which are non-specific. Un or une may also indicate quantity, 'a' or 'an' in the sense of 'one.' Contrast the use of the indefinite 
+	and definite articles in the first two sentences below. The indefinite plural des is always expressed in French, but its English equivalent 'some' is often omitted.
+
+
+	Joe-Bob et Corey ont une chambre dans une résidence universitaire à Austin. 	  	Joe-Bob and Corey have a (one) room in a residence hall in Austin.
+	Ils ont la chambre numéro 1735 dans la résidence Jester. 	  	They have the room #1735 in the Jester residence hall.
+	Joe-Bob et Corey sont des camarades de chambre. 	  	Joe-Bob and Corey are roommates!
+
+
+'de' after the negative
+	In a negative sentence, the indefinite articles un, une, des are replaced by de or d':
+	
+	Tex: Joe-Bob, tu as un chien? 	  	Tex: Joe-Bob, do you have a dog?'
+	Joe-Bob: Mais non! Je n'ai pas de chien. Je suis un écureuil. 	  	Joe-Bob: No, I don't have a dog. I'm a squirrel.
+	Tex: Corey, tu as des amis? 	  	Tex: Corey, do you have friends?
+	Corey: Mais non! Je n'ai pas d'amis. Je suis un cafard. 	  	Corey: No, I don't have any friends. I'm a cockroach.
+
+
+	However, following the verb être, the indefinite articles un, une, des remain unchanged in the negative:
+
+	Edouard: Joe-Bob, c'est un écureuil. Ce n'est pas un tatou! 	  	Edouard: Joe-Bob is a squirrel. He is not an armadillo.
+	Tex et Tammy, ce sont des tatous. Ce ne sont pas des escargots. 	  	Tex and Tammy are armadillos. They are not snails.
+
+
+before a plural adjective:
+	Before a plural adjective which precedes a noun, des usually becomes de. If the adjective comes after the noun, des does not change to de.
+	tex et tammy
+	audio 	
+	Edouard: Tex et Tammy sont de charmants amoureux. 	  	Edouard: Tex and Tammy are charming lovers.
+	Bette: Ah bon? Ce ne sont pas seulement de bons amis? 	  	Bette: Really? They are not just good friends?
+	Edouard: Tu ne trouves pas que Tex et Tammy sont des tatous parfaits l'un pour l'autre? 	  	Edouard: Don't you think that Tex and Tammy are armadillos who are perfect for each other?
+	Bette: Absolument pas! 	  	Bette: Absolutely not!
+
+
+with adjectives of profession, nationality, and religion:
+	Professions, nationalities and religions are considered adjectives in French and need no article after the verbs être and devenir.
+
+
+Edouard: Tex devient professeur; il est américain; il n'est pas catholique. 	  	Edouard: Tex is becoming a professor. He is American. He is not Catholic.
+
+
+Listen to the dialogue:
+	Bette et Tammy parlent entre femmes. 	  	Bette and Tammy are talking woman-to-woman.
+	Bette: Je n'ai pas de véritables amis! Tout le monde pense que je suis une méchante chatte. 	  	Bette: I have no real friends! Everybody thinks that I am a wicked cat.
+	Tammy: Mais non Bette! Toi et moi nous sommes de vieilles amies! 	  	Tammy: That's not true Bette! You and I are old friends!'
+	Bette: Oui, mais toi tu as un petit ami tandis que moi je n'ai pas de petit ami! 	  	Bette: Yes, but you have a boyfriend whereas I don't have any boyfriend!
+	Tammy: Tu sais Bette, avoir un petit ami ce n'est pas toujours une partie de plaisir, surtout quand il s'appelle Tex! 	  	Tammy: You know Bette, having a boyfriend is not always a fun thing, especially when he's called Tex!
+	
+	
+	
+	
+	
+	
+	
+	
+Basic negation is formed by placing ne ... pas around the conjugated verb. Ne becomes n' in front of a verb starting with a vowel or a mute h.
+	tu ne vas pas en cours aujourd'hui?
+	Tex: Tu ne vas pas en cours aujourd'hui, Tammy? 	  	Tex: You're not going to class today Tammy?
+	Tammy: Non. Je ne vais pas bien. Je ne peux pas manger et j'ai mal à la tête. 	  	Tammy: No. I am not well. I cannot eat and I have a headache.
+	Tex: Tu n'as pas de chance! Ce soir, il y a une fête chez Edouard! 	  	Tex: That's too bad [literally 'you are not lucky']! Tonight there is a party at Edouard's!
+	Tammy: Tu n'es pas d'un grand réconfort, tu sais! 	  	Tammy: You are not a lot of comfort, you know!
+
+In compound tenses, like the passé composé, the ne ... pas are also placed around the conjugated verb, which is the auxiliary, avoir or être. In the periphrastic future, ne ... pas goes around the verb aller.
+	Tex n'a pas été très gentil. 	  	Tex was not very nice.
+	Tammy ne va pas passer la soirée chez Edouard. 	  	Tammy is not going to spend the evening at Edouard's.
+	
+Note that in spoken French, the ne / n' is sometimes dropped. In familiar speech, tu is often pronounced as t' before a vowel.
+	Tammy: Tex, t'es (tu es) pas très gentil. 	  	Tammy: Tex, you are not very nice.
+	
+	
+	
+	
+	
+	
+Vocabulary - https://www.lexisrex.com/French-Numbers/1-100:
+	When spelling out the French numbers 1-100, you do not include the dashes between words for any number which has a 1 digit in the 1's space (11, 21, 31, etc.). 
+	1 - 10:  un, deux, trois, quatre, cinq, six, sept, huit, neuf, dix
+	11 - 20: onze, douze, treize, quatorze, quinze, seize, dix-sept, dix-huit, dix-neuf, vingt
+	21 - 30: vingt-et-un, vingt-deux, vingt-trois, vingt-quatre, vingt-cinq, vingt-six, vingt-sept, vingt-huit, vingt-neuf, trente
+	31 - 40: trente-et-un, trente-deux, trente-trois, trente-quatre, trente-cinq, trente-six, trente-sept, trente-huit, trente-neuf, quarante
+	41 - 50: quarante-et-un, quarante-deux, quarante-trois, quarante-quatre, quarante-cinq, quarante-six, quarante-sept, quarante-huit, quarante-neuf, cinquante
+	51 - 60: cinquante-et-un, cinquante-deux, cinquante-trois, cinquante-quatre, cinquante-cinq, cinquante-six, cinquante-sept, cinquante-huit, cinquante-neuf, soixante
+	61 - 70: soixante-et-un, soixante-duex, soixante-trois, soixante-quatre, soixante-cinq, soixante-six, soixante-sept, soixante-huit, soixante-neuf, soixante-dix
+	71 - 79: soixante-et-onze, soixante-douze, soixante-treize, soixante-quatorze, soixante-quinze, soixante-seize, soixante-dix-sept, soixante-dix-huit, soixante-dix-neuf,
+	80 - 89: quatre-vingts, quatre-vingt-un, quatre-vingt-deux, quatre-vingt-trois, quatre-vingt-quatre, quatre-vingt-cinq, quatre-vingt-six, quatre-vingt-sept, quatre-vingt-huit, quatre-vingt-neuf
+	90 - 99: quatre-vingt-dix, quatre-vingt-onze, quatre-vingt-douze, quatre-vingt-treize, quatre-vingt-quatorze, quatre-vingt-quinze, quatre-vingt-seize, quatre-vingt-dix-sept, quatre-vingt-dix-huit;
+	quatre-vingt-dix-neuf, 
+	100: cent
+	
+
+Feminine or masculine words in French - https://learnfrenchwithalexa.com/blog/how-do-you-determine-gender-in-french:
+	The letter e often indicates feminine. Changing from masculine to feminine often means adding an e character. 
+	Sometimes you can catagorize words:
+		Masculine:
+			Les saisons (seasons)
+			Les jours   (days)
+			Les langues (languages)
+			Les fruits  (fruits)
+			Les légumes (vegetables)
+		
+		Feminine:
+			Les magasines	 (literature, books, magazines, etc.). 
+			Les émotions	 (emotions)
+			Les sciences 	 (sciences)
+			Les disciplines  (disciplines)
+			
+	Learn vocabulary with the article. Learn un/une, le/las, etc. so you can easily tell which gender is being referenced;
+	E.g. le stylo / un stylo (masculine) | La table / une table (feminine).  
+	
+	
+	
+Questions for lab session on May 09, 2022:
+	Je ne comprends pas. Pouvez-vous répéter s'il vous plais (en anglais?)
+	
+	Question: Quel âge as-tu? (informal) Quel âge avez-vous? (formal): How old are you?
+	Answer: J'ai vingt-et-un ans, merci de demander. 
+	Presenting the age of somebody: Il a <age> ans / Elle a <age> ans. 
+	
+	Question: Quelle est ta date de naissance? (informal) Quelle est votre date de naissance (formal): What is your date of birth?
+	Answer: Ma date de naissance est Mars vingt-deux, deux-zero-zero-deux. 
+	Presenting the birth date of somebody: sa date de naissance est ... or La date de naissance de <name> est <date> (le 31 mars 2002)
+	
+	Question: Quel est ton numéro de téléphone? (informal) Quel est votre numéro de téléphone? (formal): what is your phone number?
+	Answer: Mon numéro de téléphone est un-deux-trois quatre-cinq-six sept-huit-neuf
+	Presenting the phone number of somebody else: Le numéro de téléphone de Branden est 123-456-789
+	
+	Question 1: Quelle est ta description physique: What is your physcical description. 
+	Answer: Je mesure 1.80m et j'ai la peau claire (My height is 6 feet with light skin). 
+	Question 2: Quel est ton charactére: What is your character. 
+	Answer: Je ne sais pas (I do not know). 
+	
+	Question: Quels sont tes goûts (what are your tastes?)
+	Answer: j'adore les chats
+	You present someone: Branden aime voyager (Branden likes travelling). 
+	
+	Responses to answers:
+		je suis grand/e - je suis petite 	   (I am tall / small)
+		j'ai les cheveux noirs/bruns/blonds    (I have black/brown/blond hairs)
+		j'ai les yeux noirs/bleurs/verts/bruns (I have black/brown/blue/green eyes)
+		Mes cheveux sont noirs/bruns/blonds    (My hairs are black/brown/blond hairs)
+		Mes yeux sont bleus 				   (My eyes are blue)
+		J'ai 								  = I have 
+		Mes cheveux sont					  = My hairs are
+		Il/Elle a les yeux bleus 			   (He/she has blue eyes)
+		Ses yeux sont bleus					   (his/her eyes are blue)
+		
+		
+		
+	Colour of physical feature will come after the noun
+	Je suis grand (masculine) je suis grande (feminine)
+	J'ai les cheveux (singular masculine) bruns (I have brown hair)
+	J'ai les yeux (masculine) bruns 
+	
+	
+	In French all adjectives agree in gender and in numbers. 
+	Some adjectives are irregular:
+		beautiful:
+			(masculine/singular) 						- il est beau 
+			(feminine/singular)  						- elle est belle
+			(masculine/plural)   						- ils sont beaux 
+			(feminine/plural)    						- elles sont belles
+			(masculine/singular beginning with a vowel) - le bel appartement 
+		old:
+			(masculine/singular)						- il est vieux
+			(feminine/singular)							- elle est vieille
+			(masculine/plural)							- ils sont vieux
+			(feminine/plural)							- elles sont vieilles 
+			(masculine/singular beginning with vowel)	- un vieil appartement
+			
+	When talking about your character (personality), use 'je suis':
+		je suis calme; je suis timide; 
+		je suis sérieux (sérieuse)
+		je suis sportif (sportive)
+		
+	
+	Most of the time, when there is an -e, the ending stays the same.
+	When ending in -if, feminine ending changes to -ive. -ifs/-ives for plural.
+	-es ending for plural. 
+	Most of the time, plural form is s. 
+	-ieux (masculine) -euse (feminine) -ieux/-euses (plural m/s). 
+	-é (m) -ée(f)	-és/-ées (plural) 
+	
+	
+	Quels sont tes goûtes? Quels sont vos goûts? What are your tastes?
+	adorer   (to love)
+	aimer    (to like)
+	détester (to hate)
+	
+	-er ending regular verbs will be conjugated all the same
+	étudier-parler-voyager-travailler
+	j'aime			       - apostrophe because of the two vowels
+	tu aimes			   
+	elle/il/iel/on aime
+	nous aimons
+	vous aimez
+	elles/ils aiment
+	
+	j'adore jouer
+	j'adore le chocolat
+	j'aime la musique
+	je déteste les chats
+	je déteste étudier / je déteste les études
+	
+	
+Physical description study notes - https://www.laits.utexas.edu/fi/voc/04#030:
+	Face:
+		la tête 			- head
+		les cheveux 		- hair
+		le front 			- forehead
+		les sourcil 		- eyebrows
+		les yeux			- eyes
+		le nez				- nose
+		les joues			- cheeks
+		les oreille			- ears
+		la bouche			- mouth
+		les dents			- teeth
+		le menton			- chin
+		le cou				- neck
+	
+	Les couleurs:
+		blanc				- black	(blanche)
+		bleu				- blue	(bleue)
+		gris				- gray	(grise)
+		jaune				- yellow
+		marron (invariable) - brown
+		noir 				- black (noire)
+		orange (invariable) - orange
+		rogue				- red
+		vert				- green	(verte)
+		violet				- purple(violette)
+		
+	Physical characteristics:
+		Quelle est votre taille? 							- What's your height?
+		Je fais 1 m. 60. 									- I'm one meter 60
+		De taille moyenne									- Of medium height
+		Combien pesez-vous?									- How much do you weigh?
+		Je fais 55 kilos									- I weight 55 kilos
+		Maigre												- Thin, skinny
+		Mince												- This, slender
+		De quelle couleur sont vos cheveux? 				- What colour is your hair?
+		J'ai les cheveux blonds <colour>    				- I have <colour> hair
+		Il est ... Elle est									- He is ... She is ...
+		blond. blonde.										- A blond
+		brun. brune.										- A brunette
+		roux. rousse.										- A red-head
+		Comment est-il coiffé?								- What is his hair like?
+		Il a les cheveux longs / courts / boucles / raides 	- He has long / short / curly / straight hair
+		De quelle couleur sont vos yeux?					- What colour are your eyes?
+		J'ai les yeux marron								- I have brown eyes
+		Quelle est la forme de son visage? 					- What's the shape of his face?
+		Il a le visage carré / long / rond					- He has a square / long / round face
+		Il a le nez retroussé / pointu						- He a snub / pointed nose
+		Il a de grandes oreilles							- He has big ears
+		Il/Elle a 											- He/She has
+		Des lunettes 										- glasses
+		Une cicatrice 										- scar
+		Un piercing											- Body piercing
+		Un tatouage											- Tattoo 
+		
+		
+	Feminine ending - The ending is different depending on the ending of the adjective:
+		-t -> -te			petit 			-> petite
+		-d -> -de			grand 			-> grande
+		-os -> -osse		gros  			-> grosse
+		-et -> -ette		fluet 			-> fluette 
+		-é -> -ée			musclé 			-> musclée		
+		-i -> -ie			extraverti		-> extravertie
+		-u -> -ue			chevelu			-> chevelue
+		-e -> -e
+			mince			-> mince
+			chauve			-> chauve
+			sympathique		-> sympathique
+			timide			-> timide
+		
+		-x -> -se
+			généreux 		-> généreuse
+			jaloux			-> jalouse
