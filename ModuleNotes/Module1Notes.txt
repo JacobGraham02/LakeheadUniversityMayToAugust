@@ -129,7 +129,7 @@ Note that in compound tenses, "avoir" is used with most verbs to form the passé
 				Vous (You): -ez
 				Ils/elles (They): -ent
 				
-	Êtes stands for (to be).
+	Être stands for (to be).
 	"Êtes" is the second-person plural (you all) conjugation of the verb "être" in the present tense in French. 
 	The verb endings for "être" in the present tense are:
 		- Je suis (I am)
@@ -151,7 +151,7 @@ Note that in compound tenses, "avoir" is used with most verbs to form the passé
 	and other compound tenses.
 	
 	
-	Here are the verb endings for "avoir" in the present tense and the past tense:
+	Here are the verb endings for "avoir" (to have) in the present tense and the past tense:
 		Present tense:
 			- J'ai (I have)
 			- Tu as (You have singular, informal)
