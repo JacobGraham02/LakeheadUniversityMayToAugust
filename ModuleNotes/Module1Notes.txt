@@ -140,6 +140,7 @@ Note that in compound tenses, "avoir" is used with most verbs to form the passé
 		- Ils/Elles sont (They are)
 	In the past tense, the verb "être" uses the auxiliary verb "avoir" to form compound tenses such as the passé composé. 
 	Here are the verb endings for "avoir" in the passé composé with "être" as the auxiliary verb:
+	avoir -> 'to have' 
 		- Je suis allé(e) (I went, masculine/feminine)
 		- Tu es allé(e) (You went, masculine/feminine)
 		- Il/Elle/On est allé(e) (He/She/One went, masculine/feminine)
@@ -149,6 +150,15 @@ Note that in compound tenses, "avoir" is used with most verbs to form the passé
 	Note that the past participle of "être" is "été", which is used in the passé composé with "avoir". The auxiliary verb "être" 
 	is used with certain verbs of motion, reflexive verbs, and intransitive verbs to form the passé composé, the plus-que-parfait, 
 	and other compound tenses.
+	
+	aller -> 'to go' 
+	
+	Singular 					Plural
+	Je vais I go 				Nous allons We go
+	Tu vas 	You go 				Vous allez 	You go
+	Il va 	He goes 			Ils vont 	They go
+	Elle va She goes 			Elles vont 	They go
+	On va 	We go/one goes 	
 	
 	
 	Here are the verb endings for "avoir" (to have) in the present tense and the past tense:

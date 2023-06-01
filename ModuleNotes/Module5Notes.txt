@@ -1,0 +1,696 @@
+Partitive articles - https://www.laits.utexas.edu/tex/gr/det5.html:
+	Three partitive articles in French: 
+		du (masculine) for 'some' 
+		de la (feminine) for 'some'
+		de l' (masculine/feminine starting with a vowel) for 'some' 
+		
+	Uses:
+		Partitive articles are used to express quantites that cannot be counted. 
+		Definite article refers to a specific thing, indefinite article refers to a general thing. 
+		Partitive article denotes a part of a whole. 
+		
+		Partitive article:
+			Vous prenez du vin, n'est-ce pas?
+		
+		Definite article:
+			Le vin rouge est bon pour la santé!
+		
+		Indefinite article:
+			En fait, nous avons un Beaujolais nouveau ou un Chambertin, un Châteauneuf-du-Pape, ou j'ai un excellent Médoc pour vous, ou un tout petit vin gris de Savoie
+			
+	
+	After negative sentences:
+		In negative sentences, du, de la, des, de l' changes to de:
+			Joe-Bob mange de la viande	-> Tammy ne mange pas de viande
+			Tex boit du café			-> Tammy ne boit jamais de café
+			Il y a encore du vin		-> Il n'y a plus de vin
+			
+		
+		
+		
+Les adverbes de quantité; adverbs of quantity - https://www.youtube.com/watch?v=FrAwNur7EjA and https://leflepourlescurieux.fr/adverbes-de-quantite-les-manieres-de-les-employer-grammaire-a1/:
+	When we want to express quantities, we can use numbers. We can also use quantity adverbs. This article introduces you to the latter and explains their use.
+	The main adverbs of quantity are: little; much; enough; too much; about; and approximately.
+	The adverbs 'peu', 'assez', 'beaucoup', and 'trop' do not express a precise quantity. Rather, they give an idea of volume. Each adverb represents a different level. 
+	
+	Peu 		= une faible quantité
+	Assez 		= la nécessaire
+	Beaucoup 	= plus que nécessaire
+	Trop 		= une quantité exagérée
+	
+	
+	
+	Uses of adverbs of quantity:
+		Peu, assez, beaucoup et trop
+		
+		1. Ces adverbes de quantité peuvent s'employer seuls - These adverbs of quantity can be used on their own
+		Examples:
+			Je mange peu 			- I don't eat much
+			Tu étudie assez 		- You study enough
+			Il dessine beaucoup 	- He draws a lot
+			Vous travaillez trop	- You work too hard
+		
+		2. Ils peuvent être suivis du partitif de. Dans ce cas, ils s'emploient avec un nom - They can be followed by the partitive de. In this case, they are used with a noun
+		Examples:
+			Il y a peu de monde dans ce restaurant, il est trop cher 		- There are few people in this restaurant, it's too expensive
+			Nous avons assez de fruits										- We have enough fruit
+			J'ai vu beaucoup de clients dans ce magasin						- I've seen a lot of customers in this store
+			Dans cette ville, il y a trop de pollution.						- In this city, there's too much polution
+			
+		Peu 	- little
+		Assez 	- Quite
+		Beacoup - Many
+		Trop	- Too
+		
+		Beacoup de 		- A lot of
+		Assez de		- Enough of
+		Peu de 			- Few/little of
+		Moins de		- Less of
+		Trop de			- Too much of
+		
+		
+	
+	Verbs with infinites ending in -ir form a second group of regular verbs in French often called 'second conjugation' verbs. To conjugate, drop the -ir from the infinitive and add the second conjugation present tense
+	endings: -is, -is, -it, -issons, -issez, -issent for je, tu, il/elle/on, nous, vous, and ils/elles respectively. Past participle is fini
+	
+	finir 'to finish'. The verb ending -ir changes with conjugasion. 
+	je finis
+	tu finis
+	il/elle/on finit
+	nous finissons
+	vous finissez
+	ils/elles finissent
+	
+	List of other common -ir verbs:
+		choisir; to choose					maigrir; to lose weight					réfléchir; 	to think, reflect
+		établir; to establish				mincir;  to get slimmer					réunir;	   	to get together, assemble
+		grandir; to grow (up)				obéir (à quelqu'un); to obey (someone)	réussir (à);to succeed (at)
+		grossir; to gain weight				réagir; to react						vieillir; 	to grow old
+		
+	agir 		'to act'
+	bâtis 		'to build'
+	choisir 	'to choose'
+	désobéir	'to disobey'
+	finir		'to finish' 
+	guérir		'to finish' 
+	nourrir		'to finish' 
+	obérir		'to obey' 
+	punir		'to punish' 
+	ravir		'to delight'
+	réfléchir	'to reflect' 
+	remplir		'to fill up'
+	réussir		'to succeed'
+	rougir		'to blush'
+	saisir		'to seize' 
+	
+	
+	
+Verbes modaux au présent / Model verbs at present tense
+	Pouvoir / vouloir / devoir	(Can/Want/Must)
+	
+	Voulor, povoir and devoir are modal verbs. When used with infinitives, they act as auxiliary verbs or semi-auxiliaries. 
+	Vouloir expresses a strong will or desire; in the present tense it has the same feeling as a command. It is an irregular verb in the present tense. 
+	
+	
+	Voulor expresses a strong will or desire; in the present tense it has the same feeling as a command. It is an irregular verb in the present tense. Note how the present tense forms a 'boot'. 
+	vouloir 'to wish, want, will' 
+	je 				 veux
+	tu 				 veux
+	il/elle/on 		 veut
+	nous 			 voulons
+	vous			 voulez
+	ils/elles 		 veulent
+	past participle: voulu
+	
+	
+	Pouvoir expresses the physical ability or permission to do something ie possibility. It is also an irregular verb with formation similar to vouloir. The 'boot' formation is also evident
+	pouvoir 'to be able, be permitted to' 
+	je				peux
+	tu				peux
+	il/elle/on		peut
+	nous 			pouvons
+	vous			pouvez
+	ils/elles 		peuvent
+	past participle pu
+	
+	It is important not to confuse the roles of pouvoir and savoir in French. Savoir expresses 'to know how' whereas pouvoir expresses 'to be able to' 
+	
+	
+	Devoir expresses obligation, probability and supposition but if followed by a noun, expresses the idea 'to owe'. This verb is irregular in its present Once again, the 'boot' formation is seen with this verb;
+		The stem changes in the 1st and 2nd person plural conjugations
+		
+	devoir 'to have to, be supposed to/ to owe' 
+	
+	je 				dois	
+	tu 				dois
+	il/elle/on 		dois
+	nous 			devons
+	vous			devez
+	ils/elles		doivent
+	past participle:dû
+	
+	
+	
+Vocabulaire / Compréhension orale:
+	Vocabulaire des nourritures
+		la nourriture 		- food
+		avoir, faim			- to be hungry
+		manger				- to eat
+		déjeuner			- to have breakfast or lunch
+		dîner				- to have dinner
+		
+	Meals:
+		le repas 			- Meal
+		le petit-déjeuner	- Breakfast
+		le déjeuner			- Lunch
+		le dîner			- Dinner
+		le goûter			- Snack
+		
+	Dishes:
+		le hors d'oeuvre, l'entrée 	- Appetizer
+		la soupe, le potage			- Soup
+		le plat principal			- Main course
+		la salade					- Salad
+		le dessert					- Dessert
+		In French, entrée refers to an appetizer. 
+		
+	Places:
+		la cuisine					- Kitchen, cooking
+		la salle à manger			- Dining room
+		le restaurant				- Restaurant
+		
+	Miscellaneous terms:
+		la confiture				- Jam
+		le croissant				- Croissant
+		la farine					- Flour
+		les frites					- Fries
+		l'huile d'olive				- Olive oil (feminine)
+		la mayonnaise				- Mayonnaise
+		la moutarde					- Mustard
+		un oeuf, des oeufs			- egg, eggs
+		le pain						- Bread
+		le pain grillé				- Toast
+		les pâtes					- Pasta
+		le poivre					- Pepper
+		le riz						- Rice
+		la sauce					- Sauce, dressing, gravy
+		le sel						- Salt
+		le sucre					- Sugar
+		
+		
+	Fruits
+		le fruit 					- Fruit
+		un abricot					- Apricot
+		un ananas					- Pineapple
+		une banane					- Banana
+		une cerise					- Cherry
+		un citron					- Lemon
+		un citron vert				- Lime
+		une fraise					- Strawberry
+		une framboise				- Raspberry
+		une mûre					- Blackberry
+		une myrtille				- Blueberry
+		une orange					- Orange
+		un pamplemousse				- Grapefruit
+		une pastèque				- Watermelon
+		une pêche					- Peach
+		une poire					- Pear
+		une pomme					- Apple
+		une prune					- Plum
+		un raisin					- Grape
+		
+		
+	Vegetables
+		une légume					- Vegatable
+		un artichaut				- Artichoke
+		les asperges				- asparagus
+		une aubergine				- Eggplant
+		la carotte					- Carrot
+		le céleri					- Celery
+		le champignon				- Mushroom
+		le chou-fleur				- Cauliflower
+		le concombre				- Cucumber
+		les épinards				- Spinach (masculine)
+		un haricot					- Bean
+		la laitue					- Lettuce
+		un oignon					- Onion
+		le maïs						- Corn
+		les petits pois				- Peas (masculine)
+		la pomme de terre 			- Potato
+		le radis					- Radish
+		la tomate					- Tomato
+		
+	Meats	
+		la viande					- Meat
+		l'agneau					- Lamb (masculine)
+		les anchois					- Anchovies (masculine)
+		le bifteck					- Steak
+		la dinde					- Turkey
+		les escargot				- Snails (masculine)
+		le jambon					- Ham 
+		le lapin					- Rabbit
+		le poisson					- Fish
+		le porc						- Pork
+		le poulet					- Chicken
+		le rosbif					- Roast beef
+		le saucisson				- Sausage
+		le veau						- Veal
+		
+	Dairy
+		le babeurre					- Buttermilk
+		le beurre					- Butter
+		la crème					- Cream
+		la crème fraîce 			- Very thick, slightly sour cream
+		le fromage					- Cheese
+		le fromage blanc			- Cream cheese
+		la glace					- Ice cream
+		le lait						- Milk
+		le yaourt					- Yogourt
+		
+	Desserts
+		le dessert					- Dessert
+		le biscuit					- Cookie
+		les bonbons					- Candy
+		le chocolat					- Chocolate
+		la crème brûlée				- Custard with burnt sugar topping
+		la crème caramel			- Flan
+		le fromage					- Cheese
+		les fruits					- Fruit (masculine)
+		le gâteau					- Cake
+		la glace					- Ice cream
+		la mousse au chocolat		- Chocolate mousse
+		la tarte					- Pie
+		la vanille					- Vanilla
+		
+		
+	Using partitive articles 'du', 'de la', 'des', 'de', 'd'.: https://blog.mangolanguages.com/how-do-you-use-partitive-articles-in-french-du-de-la-des-de-d
+	
+	
+	
+Les repas:
+	Le petit-déjeuner
+		Au petit-déjeuner, en général, on prend du pain ou des biscottes. Sur le pain, on met du beurre et de la confiture. On appelle ça des tartines. On boit aussi du café, du café au lait, du thé ou du chocolat chaud. 
+		On peut aussi prendre un bol de lait avec des céréales. Bien sûr, ça dépend des familles, mais on peut aussi boire un jus de fruits ou manger un yaourt.
+		Le dimanche matin, les Français vont à la boulangerie pour acheter des croissants, des pains au chocolat ou de la brioche en plus de la baguette.
+	
+	Le déjeuner
+		A midi, on appelle le repas «  le déjeuner » ou « le midi ». Au déjeuner, on mange plus qu’au petit déjeuner. Il  y a souvent une entrée, un plat et un dessert. En entrée, on peut prendre par exemple un peu de salade, 
+		des carottes râpées ou de la charcuterie (du jambon, du saucisson, du pâté).
+		Dans le plat principal, il y a souvent de la viande (du poulet, du bœuf ou du porc) On mange la  viande  avec des frites, des pâtes, des haricots verts ou du riz. Quand on habite près de la mer, on mange plus de poisson.
+		En dessert, on prend un fruit ou un yaourt.
+		Avant le dessert, souvent on mange un peu de fromage avec du pain. On boit surtout de l’eau (de l’eau du robinet ou de l’eau minérale) On termine souvent le repas par un café.
+		
+	Le dîner
+		Le soir, le repas s’appelle « le dîner » ou « le souper ». La différence avec le repas de midi n’est pas très grande. On mange un peu moins et quelquefois on prend un peu de vin ou de la bière à la place de l’eau. 
+		Et à la place du café, on boit plutôt une tisane… mais ça dépend des familles : chaque famille a ses habitudes.
+		
+	Questions: 
+		1. Qu'est-ce qu'on boit au petit-déjeuner
+		
+		2. Comment s'appelle le repas de midi
+		
+		3. Qu'est-ce que'on mange avant le dessert
+		
+		4. Qu'est-ce que'on boit à la place du café le soir
+		
+	Answers:
+		1. Au petit-déjeuner on peut boire du café au lait, du thé, du chocolat, au lait ou parfois un jus de fruit
+		
+		2. Le repas du midi, c'est le déjeuner
+		
+		3. Avant le dessert, on mange du fromage avec du pain
+		
+		4. Le soir, il vaut mieux boire une tisane à la place du café
+		
+	Vrai - Faux:
+		1. On mange des tartines au déjeuner
+		2. On commence le repas par un café
+		3. On mange un fruit ou un yaourt en dessert
+		4. On ne boit jamais d'eau le soir
+		
+	Réponses:
+		1. FAUX
+		2. FAUX
+		3. VRAI
+		4. FAUX
+		
+	
+
+	
+Powerpoint grammar summary:
+	Partitive articles are used in English and French to express quantities that cannot be counted. While the indefinite article (un, une, des) is used with countable quantities (un oeuf, deux oeufs, ...), the partitive article
+	is used before mass nouns, nouns that are indivisible or uncountable. In English, the article 'some' is often omitted. 
+	The partitive article designates a part of the whole
+	
+	masculine singular -> je mange du pain (de + le)
+	feminine singular  -> je mange de la banane
+	masculine plural   -> je mange des fruits 
+	feminine plural    -> je mange des bananas
+	
+	Negation:
+		masculine singular		-> je ne mange pas de pain
+		feminine singular		-> je ne mange pas de banane
+		masculine plural		-> je ne mange pas de fruits
+		feminine plural			-> je ne mange pas de bananes
+	
+	
+	
+	Adverbs of quantity:
+		The adverbs of quantity will always be followed by the 'de' preposition
+		As well as a specific quantity
+		
+		Trop de / too much of											
+		je mange trop de viande (feminine)
+		
+		Beaucoup de / a lot of
+		je mange beaucoup de bananas (feminine plural)
+		
+		Moins de / less of
+		je mange moins de sucre (masculine)
+		
+	
+		Negation:
+			je ne mange pas beaucoup de pain
+			je ne mange pas assez de bananes
+			
+			
+	Conjugaison - Boire / to drink
+		Je bois
+		Tu bois
+		Elle/Il boit
+		Nous buvons
+		Vous buvez
+		Elles/Ils boivent
+		
+		
+	Conjugasion:
+		Vouloir / want:
+			Je vuex
+			Tu vuex
+			Elle/Il vuet
+			Nous voulons
+			Vous voulez
+			Elles/Ils veulent
+			
+		Pouvoir / Can or be able to:
+			Je peux
+			Tu peux
+			Elle/Il peut
+			Nous pouvons
+			Vous pouvez
+			Elles/Ils peuvent
+			
+		Devoir / must:
+			Je dois
+			Tu dois
+			Elle/Il doit
+			Nous devons
+			Vous devez
+			Elles/Ils doivent
+			
+	
+	Conjugaison au présent
+		Les verbes modaux / modal verbs:
+			Vouloir, pouvoir, and devoir are called modal verbs. When used with infinitives, they will be conjugated and the second verb remains at the infinitive: je dois manger
+			Vouloir: expresses a strong will or desire; in the present tense it has the same feeling as a command
+			Pouvoir: expresses the physical ability or permission to do something ie possibility
+			Devoir: expresses obligation, probability and supposition
+			
+		IR regular 2nd category verbs:
+			Verbs with infinitive ending in -ir form a second group of regular verbs in French, often called 'second conjugation' verbs. To conjugate these verbs, drop the -ir from the infinitive and add the 
+			second conjugation present tense endings: -is, -is, -it, -issons, -issez, -issent. The singular and plural forms of the third person are clearly distinguishable (finit vs finissent). 
+			Some examples: choisir (to choose), grandir (to grow up), grossir (to gain weight).
+			
+			Je finis
+			Tu finis
+			Il/Elle/On finit
+			Nous finissons
+			Vous finissez
+			Ils/Elles finissent
+	
+Vocabulaire du restaurant - https://www.lawlessfrench.com/vocabulary/restaurant/:
+	boire 				- to drink
+	commander 			- to order
+	manger				- to eat
+	payer				- to take, have
+	prendre				- to take, have
+	
+	
+	What the waiter might say:
+		Installez-vous				- Have a seat
+		Vous avez choisi?			- Have you decided?
+		Que voudriez-vous?			- What would you like?
+		Vous désirez?				- What would you like?
+		Je vous écoute				- (Go ahead) I'm listening
+		Que prenez-vous?			- What can I get you?
+		Et ensuite de ça?			- And after that? What else?
+		J'arrive					- I'll be right there
+		
+	What you might respond with:
+		Je voudrais					- I would like
+		J'aimerais
+		
+		Je vais prendre				- I'll have
+		Je prends				
+		
+		Combien coûte?					- How much does ... cost
+		Je suis							- I am
+			allergique à 				- Allergic to
+			diabétique					- Diabetic
+			végétarien / végétarienne	- Vegetarian
+			végétalien / végétalienne	- Vegan
+		Je ne peux pas manger			- I can't eat
+		
+	
+	If you order meat, the waiter might ask
+		Quelle cuisson?					- How would you like it cooked?
+		
+		
+	And you can respond...
+		cru								- Raw
+		bleu							- Very rare (red inside)
+		saignant (for beef)				- Rare (pink inside)
+		rosé (for duck or lamb)			
+		à point							- Medium rare
+		médium							- Medium
+		bien cuit						- Well done
+		calciné							- Very well done, charred
+		
+	
+	What you might say to your table mates
+		À la vôtre!						- Cheers
+		Bon appétit!					- Enjoy your meal (the waiter might say this too)
+		
+	
+	Later, the waiter might ask
+		C'est à votre goût?				- Do you like it? Is everything ok?
+		C'est terminé?					- Have you finished?
+		Ça a été?						- Was everything ok?
+		
+	
+	When you're ready, ask for 
+		l áddition (feminine)			- Check/Bill
+		
+		
+	Restaurant people
+		le serveur (not garçon)			- Waiter
+		la serveuse						- Waitress
+		le/la chef						- Chef
+		
+		
+	Other useful restaurant terms
+		la carte						- Menu
+		le menu							- fixed-price meal
+
+
+
+
+
+
+
+
+
+
+
+Zoom session for May 30, 2023:
+	Use the reflexive pronoun 'me' when referring to yourself. 
+	
+	Il fait 30 degrés = it is 30 degrees
+	Il va faire 30 degrés = It is going to be 30 degrees
+	
+	
+	In Barrie tomorrow the weather will be 30 degrees in the afternoon, and 15 degrees in the morning and evening. I swim in the afternoon and code in the evening.
+	In Canada, we eat poutine. In poutine, there are fries, cheese, and gravy. We dont eat very spicy food
+	
+	À Barrie, demain, il fera 30 degrés l'après-midi et 15 degrés le matin et le soir. Je nage l'après-midi et je code le soir.
+	Au Canada, nous mangeons de la poutine. Dans la poutine, il y a des frites, du fromage et de la sauce. Nous ne mangeons pas de plats très épicé
+	
+	
+	
+
+Pronounciation:
+
+	Liaisons obligatoires:
+		Group nominal:
+		
+		Après un, des, les, ces, mon, ton, son, mes, tes, ses, nos, vos, leurs, aux, aucun, tout, quels, quelles, quelques + tous les nombres:
+			1. Nathalie passe un examen
+			2. Ce sont des étude difficles 
+			3. Je dois deux euros à Paul
+			
+		Adjectif + Nom:
+			Elle monte les vieilles affaires au grenier
+			Quels idiots !
+			
+			
+	Liaisons interdites:
+		Groupe nominal:
+		
+		Devant un h aspiré:
+			Ce sont des héros!
+			
+		Nom singulier + Adjectif:
+			C'est un étudiant intelligent
+			C'est du courrier urgent
+			
+		
+	Groupe verbal:
+		Après on, nous, vous, ils, elles:
+			On a tout compris
+			Vous avez un ordinateur
+			Vous vous êtes bien reposé
+			Ils ont de l'énergie
+			
+	Groupe verbal:
+		Sujet + Verbe:
+			Le train arrive demain
+			Quelqu'un est entré
+			Les étudiants arrivent à huit heures
+			Aprés un prénom: Vincent est arrivé en avance
+			
+		Après le verbe:
+			Elle écrit une lettre à Lili
+			Tu veux un café?
+			Elle tient à Paul
+			Elle descend à ski
+			Il part avec sa copine
+			Devant huit, onze: Ils ont onze ans
+			
+	
+	Après un adverbe court:
+		Marc est plus occupé que Luc
+		Il a été très étonné de voir ça !
+		Hier, on s'est bien amusés
+		
+		
+	Adverbe + Adjectif:
+		C'est vraiment ennuyeux !
+		
+	
+	Après quand et comment:
+		quand + est-ce que : Quand est-ce que'on arrive ?
+		quand + voy : Quand il est là, je suis contente
+		Cas unique: Bonjour, comment allez-vous?
+		
+		
+	Après dans, chez, sans, en:
+		Elle vit dans un vieux château
+		Ils rentrent chez eux en voiture
+		Vincent est arrivé en avance
+		
+	
+	Devant un h aspiré:
+		Il habite en haut de cette rue
+		
+	Après et:
+		Ils ont une fille et un garçon
+		
+	
+	Expressions figées:
+		avant-hier
+		c'est-á-dire
+		de temps en temps
+		plus ou moins
+		un sous-entendu
+		tout à coup
+		tout à l'heure
+		
+		
+		
+The weather in French:
+	Il fait - It's
+		beau 		- nice out
+		hot 		- chaud
+		cool 		- frais
+		cold		- froid
+		humid 		- humide
+		heavy/close	- lourd
+		cloudy		- nuageux
+		stormy		- orageux
+		bad weather	- mauvais
+		x degrees	- x degrés
+		
+	Il y a - It's
+		du soleil		- sunny
+		du vent			- windy
+		du brouillard 	- foggy
+		
+	Il	   - It's
+		pleut			- raining
+		pleut à verse	- pouring
+		neige			- snowing
+		freezing		- gèle
+		
+		
+
+Vocabulaire / Compréhension orale; commander au restaurant:
+	Le serveur prend la commande
+		Vous avez choisi?
+		Et comme plat? Comme dessert?
+		Qu'est-ce que vous prenez comme dessert?
+		Vous désirez boire du vin?
+		Vous désirez des cafés?
+		
+	Le(s) client(s) comamnde(nt)
+		Je voudrais.../ Nous voudrions...
+		J'aimerais...
+		Je vais prendre.../ Nous allons prendre...
+		Je prendrai... Nous prendrions...
+		Pour moi, ... s'il vous plait
+		Pour moi, ça sera
+		Alors deux melon en entrée
+		
+	Le serveur recommande un plat
+		C'est une spécialité de la maison, je vous le/la recommande 
+		Prenez...
+		
+	Demander une explication
+		Quel est le plat du jour?
+		Qu'est-ce que vous avez comme boissons? Comme desserts?
+		Qu'est-ce que qu'il y a dans ce plat?
+		Un ... qu'est-ce que c'est
+		Pouvez-vous m'expliquer ce qu'est ce plat?
+		
+	Demander conseil
+		Qu'est-ce que vous me conseillez?
+		Quel vin irait avec ce plat?
+		
+		
+	Petit lexique
+		L'entrée					La serviette
+		Le plat principal			Les couverts
+		Le plat du jour				La (petite) cuillère
+		Le dessert					La couteau	
+		Le menu (du jour)			La fourchette
+		Les formulas				Un verre	
+		Faire une réservation		Une coupe
+		Le serveur / la serveuse	Les toilettes
+		Commander					La cuisson:
+		Demander l'addition				-Bleu
+		Laisser un pourboire			-Saignant
+		Les modes de paiement			-A point
+		Payer par carte					-Bien cuit
+		Payer en espèces			L'eau
+		Payer par chèque				- plate
+										- gazeuse
+										
