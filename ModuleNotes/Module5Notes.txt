@@ -387,7 +387,7 @@ Powerpoint grammar summary:
 		Vouloir / want:
 			Je vuex
 			Tu vuex
-			Elle/Il vuet
+			Elle/Il veut
 			Nous voulons
 			Vous voulez
 			Elles/Ils veulent
@@ -694,3 +694,66 @@ Vocabulaire / Compréhension orale; commander au restaurant:
 		Payer par chèque				- plate
 										- gazeuse
 										
+										
+										
+
+la liaison
+
+	Obligatory - obligatoire
+	Facultatif - optional
+	Forbidden  - interdit
+	
+	Liaison obligatoire
+		1. Determiner + noun
+		2. Determiner + adjective / adjective + noun
+		3. After a preposition or a short adverb
+		4. Pronoun + verb
+		5. After être (almost always required) 
+	
+	Liaison interditeI love pasta and hate mayonnaise
+		1. Noun + adjective
+		2. Proper noun + verb
+		3. Before h-aspiré
+		
+	Liaison facultatif
+		1. After trop, pas, plus
+		
+		
+		
+Interview:
+	One of 8 questions on the question sheet. A further 2 questions will be asked which are directly correlated
+	to your response to the questions. 
+		
+Module 5 discussion thread post:
+	La fin de semaine prochaine, pour samedi et dimanche, je vais manger des burritos au petit-déjeuner 
+	et du lait à cinq heures. Au déjeuner, je vais mange une pomme de terre, un pomme, deux ryvita biscuits, 
+	et du quinoa à douze heures. Au dîner le samedi, je vais manger du porc et du riz avec de l'eau. 
+	Au dîner le dimanche, je vais manger une pizza, des bâtonnets de mozzarella, une pomme, 
+	et deux brownies à dix-huit heures. 
+	
+	Next weekend, for Saturday and Sunday, I'll eat burritos for breakfast and milk at five. 
+	For lunch, I'll eat a potato, an apple, two ryvita cookies, and quinoa at twelve o'clock. 
+	For dinner on Saturday, 
+	I'll eat pork and rice with water. For Sunday dinner, I'll have pizza, mozzarella sticks, 
+	an apple, and two brownies at six o'clock. 
+	Je adore les spaghetti. Je déteste les mayonnaise. 
+	
+	
+June 01 Zoom call:
+	Robert ne prend pas de petit-déjeuner, Robert mange des poulet et des legumès au déjeuner. 
+	Robert ne mange pas de dîne. Robert adore les chocolat. Robert déteste les avocat 
+	
+	
+June 04 bongo video:
+	La semaine prochaine, du lundi au vendredi, je vais mange deux burrito petit-déjeuner et bois du 
+	lait à cinq heures. Au déjeuner, 
+	en général je vais mange une pomme, une pomme de terre, deux ryvita biscuits, et du quinoa garni 
+	de sauce à spaghetti. Au dîner en général, 
+	je vais mange du porc, du riz, est une part de pizza.  et bois du l'eau. En général, je vais mange 
+	seul parce-que j'aime silence est les personnes ne peut me déranger. Je veux du bonbons souvent, mais je vais prendre trop de poids. 
+	Je ne peux pas manger trop de pâtes.
+	
+	
+	Next week, from Monday to Friday, I'll eat two breakfast burritos and drink milk at five o'clock. For lunch, I'll usually eat an apple, a potato, 
+	two ryvita cookies, and quinoa topped with spaghetti sauce. For dinner, I usually eat pork, rice, a slice of pizza and drink water. 
+	I usually eat alone because I like silence and no one can disturb me. I want sweets often, but I'll put on too much weight. I can't eat too much pasta. 
