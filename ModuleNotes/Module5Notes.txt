@@ -427,6 +427,22 @@ Powerpoint grammar summary:
 			Nous finissons
 			Vous finissez
 			Ils/Elles finissent
+			
+first was roleplay at a restaurant, "what would you like to have" "I want a coffee" type thing
+second was what your partner did last weekend (past tense) "On saturday he went swimming"
+
+	La fin de semaine prochaine, pour samedi et dimanche, je vais manger des burritos au petit-déjeuner 
+	et du lait à cinq heures. Au déjeuner, je vais mange une pomme de terre, un pomme, deux ryvita biscuits, 
+	et du quinoa à douze heures. Au dîner le samedi, je vais manger du porc et du riz avec de l'eau. 
+	Au dîner le dimanche, je vais manger une pizza, des bâtonnets de mozzarella, une pomme, 
+	et deux brownies à dix-huit heures. 
+	
+	Next weekend, for Saturday and Sunday, I'll eat burritos for breakfast and milk at five. 
+	For lunch, I'll eat a potato, an apple, two ryvita cookies, and quinoa at twelve o'clock. 
+	For dinner on Saturday, 
+	I'll eat pork and rice with water. For Sunday dinner, I'll have pizza, mozzarella sticks, 
+	an apple, and two brownies at six o'clock. 
+	Je adore les spaghetti. Je déteste les mayonnaise. 
 	
 Vocabulaire du restaurant - https://www.lawlessfrench.com/vocabulary/restaurant/:
 	boire 				- to drink
@@ -434,6 +450,9 @@ Vocabulaire du restaurant - https://www.lawlessfrench.com/vocabulary/restaurant/
 	manger				- to eat
 	payer				- to take, have
 	prendre				- to take, have
+	
+	Will that be all? Your order being made. Here you are madam. 
+	Ce sera tout ? Votre commande est en préperation. Vous voilà, madame. 
 	
 	
 	What the waiter might say:
@@ -445,6 +464,10 @@ Vocabulaire du restaurant - https://www.lawlessfrench.com/vocabulary/restaurant/
 		Que prenez-vous?			- What can I get you?
 		Et ensuite de ça?			- And after that? What else?
 		J'arrive					- I'll be right there
+		Votre total est				- Your total is
+		Aurevoir					- Goodbye
+		Un certain temps s'écoule	- Some time passes
+		A large coffee with creme   - Un grand café avec de la crème
 		
 	What you might respond with:
 		Je voudrais					- I would like

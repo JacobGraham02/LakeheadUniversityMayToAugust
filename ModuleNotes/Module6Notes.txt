@@ -1,0 +1,681 @@
+When to use Passé Composé - word document:
+	One time event
+		Example:
+			À 18 ans, j'ai terminé l'école secondaire : I finished high school at 18
+			
+	Actions - Main events, actions of a story
+		Example:
+			Hier, je suis allé au cinéma. Puis, je suis rentré et j'ai mangé le diner: Yesterday, I went to the movie. Then, I went back home and ate dinner
+			
+	Interrupting action
+		Example:
+			Je faisais de la guitare lorsque le téléphone a sonné: I was playing guitar when the phone rang
+			
+			
+
+
+règle + exercise auxiliaire AVOIR - https://www.laits.utexas.edu/tex/gr/tap2.html:
+	The passé composé is the most commonly used tense to refer to actions completed in the past. The passé composé may be translated into English in three different ways depending on the context. 
+	
+	Tex a mangé toute la viande!
+		Tex ate all the meat!
+		Tex has eaten all the meat!
+		Tex did eat all the meat!
+		
+	Formation
+		This tense is called the passé composé becuase it is composed of two elements: the present tense of an auxiliary verb (either avoir or être), followed by a past participle:
+			passé composé = present tense of auxiliary + past participle
+			
+		Note that in most instances the auxiliary verb is avoir, but some verbs require être as the auxiliary
+		For regular verbs with an infinitive ending in -er, the past participle is formed by replacing the final -er of the infinitive with -é. The past participle (parlé) is pronounced the same as the infinitive (parler)
+		even though they are spelled differently. 
+		
+		parler 'to talk'
+			
+		j'ai parlé 						- I (have) talked
+		tu as parlé 					- You (have) talked
+		il, elle / on a parlé			- He, she (it) / one (has) talked
+		
+		
+	The past participle of regular verbs with an infinitive ending in -ir is formed by dropping the final -r from the infinitive. For example, the past participle of finir is fini. 
+		
+		finir 'to finish'
+		
+		j'ai fini						- I (have) finished
+		tu as fini						- You (have) finished
+		il, elle / on a parlé			- He, she (It) / one (has) talked
+		nous avons parlé				- We (have) talked
+		vous avez parlé					- You (have) talked
+		ils / elles ont parlé			- They (have) talked
+		
+	The past participle of regular verbs with an infinitive ending in -re is formed by replacing the final -re of the infinitive with -u. For example, the past participle of perdre is perdu.
+		
+		perdre 'to lose' 
+		
+		j'ai perdu						- I (have) lost
+		tu as perdu						- You (have) lost
+		il, elle / on a perdu			- He, she (It) / one (has) lost
+		nous avons perdu				- We (have) lost
+		vous avez perdu					- You (have) lost
+		ils / elles ont perdu 			- They (have) lost
+		
+	
+	Note that many verbs, however, have irregular past participles. The past participles of many common irregular verbs which have avoir as an auxiliary are listed below:
+		infinitive 	translation 	past participle
+		
+		avoir 		to have 		eu
+		être 		to be 			été
+		faire 		to do 			fait
+		ouvrir 		to open 		ouvert
+		prendre 	to take 		pris
+		mettre 		to put 			mis
+		suivre 		to follow 		suivi
+		boire 		to drink 		bu
+		croire 		to believe 		cru
+		voir 		to see 			vu
+		savoir 		to know 		su
+		connaître 	to know 		connu
+		dire 		to say 			dit
+		lire 		to read 		lu
+		écrire 		to write 		écrit
+		pouvoir 	to be able to 	pu
+		vouloir 	to want 		voulu
+		devoir 		to have to 		dû
+		tenir 		to hold 		tenu
+		recevoir 	to receive 		reçu
+
+		Singular verb endings:
+			For regular -er verbs:
+				Je (I): -e
+				Tu (You): -es
+				Il/elle/on (He/she/one): -e
+			For regular -ir verbs:
+				Je (I): -is
+				Tu (You): -is
+				Il/elle/on (He/she/one): -it
+			For regular -re verbs:
+				Je (I): -s
+				Tu (You): -s
+				Il/elle/on (He/she/one): -t
+				Plural verb endings:
+		Plural verb endings:
+			For regular -er verbs:
+				Nous (We): -ons
+				Vous (You): -ez
+				Ils/elles (They): -ent
+			For regular -ir verbs:
+				Nous (We): -issons
+				Vous (You): -issez
+				Ils/elles (They): -issent
+			For regular -re verbs:
+				Nous (We): -ons
+				Vous (You): -ez
+				Ils/elles (They): -ent
+	
+	Negation of the passé composé is formed by placing the ne ... pas around the conjugated verb, which, in this case, is the auxiliary avoir. 
+	Example:
+		Oh, regardez! Tex a mangé toute la viande! Tammy, au contraire, n'a pas mangé de viande! Elle est végétarienne, comma la plupart des tatous
+		Oh, look! Tex ate all the meat! Tammy, on the other hand, did not eat any meat! She is a vegatarian, like most armadillos
+	
+	
+	
+	Read the following dialogue:
+		Joe-Bob arrive chez Tammy. Il meurt de faim. Mais il est trop tard. 	  	
+		Joe-Bob arrives at Tammy's house. He is dying of hunger. But it is too late.
+		
+		Joe-Bob: Tammy, j'ai perdu ma collection de noix. Est-ce que je peux dîner avec vous? 	  	
+		Joe-Bob: Tammy, I lost my nut collection. Can I have dinner with y'all?
+		
+		Tammy: Je suis désolée, Joe-Bob. Tex a fini toute la viande. A mon avis, il a trop mangé. 	  	
+		Tammy: I am sorry Joe-Bob. Tex finished all the meat. In my opinion, he ate too much.
+		
+		Joe-Bob: Ce n'est pas grave Tammy. Je peux trouver quelque chose dans la cuisine ... Mon dieu, Tammy! Est-ce que tu as vu? Tex a dégobillé partout. C'est dégueulasse! 	  	
+		Joe-Bob: It's okay Tammy. I can find something in the kitchen ... My god, Tammy! Have you seen? Tex threw up everywhere. It's disgusting!
+		
+		Tammy: Ça ne m'étonne pas. Ce petit tatou carnivore, il n'est pas aussi évolué que moi! 	  	
+		Tammy: That doesn't surprise me. That little carnivorous armadillo. He is not as enlightened as I am!
+		
+		
+
+Passé composé (Composed past tense) règle et structure / structure and rule - https://www.laits.utexas.edu/tex/gr/tap3.html:
+	There are several past tenses in French, and each is used in very specific situations. The passé composé is the most common past tense; it is used to relate actions or events
+	completed in the past. The passé composé may be translated into English in three different ways depending on the context. 
+	
+	E.g.
+		Tex est allé à l'Alamo		Tex went to the Alamo ; Tex has gone to the Alamo ; Tex did go to the Alamo
+		
+	
+	Formation
+		The passé composé consists of two parts, the present tense of an auxiliary, or helping verb (either avoir or être), and a part participle. 
+		In most instances the auxiliary verb used is avoir
+		
+		passé composé = present tense of auxiliary + past participle
+		
+		However, several intransitive verbs, like aller (to go), require the auxiliary être instead. Note that the past participle agrees with the 
+		subject in number and in gender
+		
+	aller  'to go'
+	je suis allé(e), I went (have gone) 		nous sommes allé(e)s, we went (have gone)
+	tu es allé(e), you went (have gone) 		vous êtes allé(e)(s), you went (have gone)
+	il / on est allé, he / one went (has gone) 	ils sont allés, they went, (have gone)
+	elle est allée, she went (has gone) 		elles sont allées, they went, (have gone)
+	
+	
+	The negation is formed by placing ne ... pas around the conjugated verb, which in this case, is the auxiliary être: je ne suis pas allé(e), Tu n'es pas allé(e), etc.
+	
+	The Alamo of être
+		Many intransitive verbs (Verbs not followed by a direct object), take être in the passé composé. Many of these verbs also indicate motion. They are verbs of coming and going. Even naître (to be born) 
+		mourir (to die) can be thought of as coming and going in metaphorical terms. The Alamo d'Être illustrates this group of verbs
+		
+		Moirir	Monter	Partir	(Re)venir	Aller	Arriver		(R)entrer	Tomber	Descendre	Sortir	Rester	Passer	Naître
+		
+	A few of these verbs of movement (monter, descendre, sortir, passer, retourner) may sometimes take a direct object, thus becoming transitive. When they do, auxiliary used in avoir, instead of être. 
+	Example:
+		Tex est sorti					- Tex went out
+		Tex n'a pas sorti la pubelle	- Tex did not take out the garbage
+		
+	It is important to note that many intransitive verbs of movement, like courir and marcher, do not use être but avoir. The pronominal verbs form another important group of verbs which use être as the auxiliary in the passé
+	composé. 
+	
+	
+
+	Irregular past participles
+		The past participles of the verbs that use être as an auxiliary are regular except for the following:
+		
+		infinitive 	translation 	past participle
+		venir 		to come 		venu
+		devenir 	to become 		devenu
+		revenir 	to come back 	revenu
+		naître 		to be born 		né
+		mourir 		to die 			mort
+		
+		
+	agreement of the past participle
+		The past participle of a verb which takes être agrees in gender and number with the subject; that means a -e is added to the past participle to agree with a feminine subject and a -s is added for a plural subject.
+		If the subject is feminine plural, -es is added. 
+		
+		Joe-Bob: Tex, Corey et toi, vous êtes rentrés de l'Alamo											
+		Joe-Bob: Tex, did you and Corey come back from the Alamo?
+		
+		Tex: Oui. Mias Tammy et Bette sont 								
+		Tex: Yes. But Tammy and Bette stayed in San Antonio to go shopping
+		
+		Corey: Tu n'as pas entendu? Tout du'un coup Tammy est devenue toute pâle et elle est tombée dans la rivière!
+		Corey: Didn't you hear? all of a sudden Tammy turned very pale and she fell in the river!
+		
+		Joe-Bob: Mais, qu'est-ce qui s'est passé?
+		Joe-Bob: But, what happened?
+		
+		Corey: Calme-toi. Elle n'est pas morte! Tex et moi sommes arrivés pour la sauver!
+		Corey: Calm down. She didn't die! Tex and I arrived to save her!
+		
+		
+Zoom session on May 06, 2023:
+	Je mange
+	Je veux un café avec du sucre et de la crème. 
+	Je mange des céréales avec du lait
+	Je mange du riz avec des légumes et du poulet
+	Je fais de la randonnée, du tennis et du sport
+	
+	les articles partitifs:
+		unspecified quantity - du / de la / de l' / des
+		
+		eat, 	drink,	buy,	 take
+		manger / boire / acheter / prendre
+		
+	Look at the Zoom call slideshow for how to use passé composé
+	
+	Qu'as tu fait hier?		 		- What did you do yesterday
+	Sara yesterday drank tea 		- Sarah a bu du thé hier
+	Elle boit du thé		 		- She is drinking tea
+	Elle va boire du thé	 		- She is going to drink tea
+	Elle n'ai pas du thé	 		- She is not drinking tea
+	Elle est allée au restaurant	-> elle n'est pas allée au restaurant
+	
+	
+	
+List of past participles - https://mycourselink.lakeheadu.ca/content/enforced/69412-126120/pastparticiplelist.pdf?_&d2lSessionVal=iSpwzyI2FPEO7wqsz2V6c8SfX&ou=111362:
+	Les participes passés
+-É 
+	Tous les verbes en -
+	ER + Aller.
+	Aimé
+	Mangé
+	Allé
+	Travaillé
+	Regardé
+	Marché
+	Joué
+	Porté
+-I
+	Sortir < sorti
+	Grandir < grandi
+	Finir < fini
+	Choisir < choisi
+	Rire < ri
+-IS / -IT
+	Inscrire < inscrit
+	Prendre < pris
+	Dire < dit
+	Mettre < mis
+-U
+	Devoir < dû
+	Savoir < su
+	Devenir < devenu
+	Courir < couru
+	Descendre <
+	descendu
+	Recevoir < reçu
+	Connaitre < connu
+	Vouloir < voulu
+	Voir < vu
+	Vivre < vécu
+	Tenir < tenu
+	Lire < lu
+	Venir < venu
+	Boire < bu
+	Pouvoir < pu
+Autrés
+	Avoir < eu
+	Être < été
+	Faire < fait
+	Mourir < mort
+	Ouvrir < ouvert
+	Offrir < offert
+	Naitre < né
+	
+	
+	
+Les participes passés
+-É 
+	Tous les verbes en -
+	ER + Aller.
+	Aimé
+	Mangé
+	Allé
+	Travaillé
+	Regardé
+	Marché
+	Joué
+	Porté
+-I
+	Sortir < sorti
+	Grandir < grandi
+	Finir < fini
+	Choisir < choisi
+	Rire < ri
+	-IS / -IT
+	Inscrire < inscrit
+	Prendre < pris
+	Dire < dit
+	Mettre < mis
+-U
+	Devoir < dû
+	Savoir < su
+	Devenir < devenu
+	Courir < couru
+	Descendre <
+	descendu
+	Recevoir < reçu
+	Connaitre < connu
+	Vouloir < voulu
+	Voir < vu
+	Vivre < vécu
+	Tenir < tenu
+	Lire < lu
+	Venir < venu
+	Boire < bu
+	Pouvoir < pu
+Autres
+	Avoir < eu
+	Être < été
+	Faire < fait
+	Mourir < mort
+	Ouvrir < ouvert
+	Offrir < offert
+	Naitre < né
+	
+	
+	
+More passé composé - https://www.laits.utexas.edu/tex/gr/tap4.html#negation:
+	In the passé composé, pronominal verbs are conjugated with être as their auxiliary. Past participles of pronominal verbs are formed like nonpronominal past participles. Note that the reflexive pronoun 
+	(me, te, se, nous, vous, se) precedes the auxiliary. 
+	
+	s'amuser  'to have fun'
+	je me suis amusé(e), I had fun 			nous nous sommes amusé(e)s, we had fun
+	tu t'es amusé(e), you had fun 			vous vous êtes amusé(e)(s), you had fun
+	il / on s'est amusé, he / one had fun 	ils se sont amusés, they had fun
+	elle s'est amusée, she had fun 			elles se sont amusées, they had fun'
+	
+	
+	past participle agreement
+		It is important to note that, in most cases, the past participle of pronominal verbs agree in gender and number with the gender and number of the reflexive pronoun, that is, an e is added to the
+		past participle to agree with a feminine subject and an s is added for a plural subject. 
+		
+		Tammy: Je me suis réveillée très tôt ce matin
+		Tammy: I got up really early this morning
+		
+		Tex: Moi, je me suis réveillé très tard!
+		Tex: I got up really late!
+		
+	
+	past participle agreement: exceptions
+		The past participle does not agree if there is a direct object following the verb which is a part of the body:
+			
+			Tammy: Je me suis lavée
+			Tammy: I washed
+			
+			Et ensuite je me suis lavé les cheveux
+			And then, I washed my hair
+			
+		In the second example, the direct object les cheveux is placed after the verb, so there is no agreement.
+		Furthermore, in cases where the reflexive pronoun is an indirect object rather than a direct object, as in the verb se parler (parler à), there is no agreement. 
+			
+			Tammy: Puis, Bette et moi, nous nous sommes parlé
+			Tammy: Then, Bette and I talked to each other 
+			
+	
+	Negation
+		In the negative, the ne precedes the reflexive pronoun and the pas follows the auxiliary:
+			je ne me suis pas amusé(e)
+			tu ne t'es pas amusé(e)
+			il / on ne s'est pas amusé
+			elle ne s'est pas amusée
+			nous ne nous sommes pas amusé(e)(s)
+			vous ne vous êtes pas amusé(e)(s)
+			ils ne se sont pas amusés
+			elles ne se sont pas amusées
+			
+		Example dialogue:
+			Tammy: Bonjour Tex! Oh là là! Tu ne t'es pas rasé ce matin?
+			Tammy: Hi Tex! Oh dear! You did not shave this morning!
+			
+			Tex: Oh ça va hein! Mon réveil n'a pas sonné! Je me suis réveillé trop tard. Et toi, tu t'es rasée?
+			Tex: Oh that's enough, ok! My alarm clock did not go off! I woke up too late. Did you shave
+			
+			Tammy: Monsieur Tex s'est lavé du pied gauche aujourd'hui!
+			Tammy: Mister Tex got up on the wrong side of the bed today!
+			
+			
+			
+Être or Avoir in the passé composé in French video - https://www.youtube.com/watch?v=R7CMGVsanu8:
+	La passé composé = auxiliary verb + past participle
+	
+	I have played
+	I had played
+	I would have played
+	
+	être 	(to be)	
+	avoir 	(to have)
+	
+	You played in the passé composé 
+	
+	The verb endings for "être" in the present tense are:
+		- Je suis (I am)
+		- Tu es (You are singular, informal)
+		- Il/Elle/On est (He/She/One is)
+		- Nous sommes (We are)
+		- Vous êtes (You are plural, formal or informal)
+		- Ils/Elles sont (They are)
+		
+	Here are the verb endings for "avoir" in the passé composé with "être" as the auxiliary verb:
+		- Je suis allé(e) (I went, masculine/feminine)
+		- Tu es allé(e) (You went, masculine/feminine)
+		- Il/Elle/On est allé(e) (He/She/One went, masculine/feminine)
+		- Nous sommes allé(e)s (We went, masculine/feminine)
+		- Vous êtes allé(e)(s) (You went, masculine/feminine)
+		- Ils/Elles sont allé(e)s (They went, masculine/feminine)
+		
+	Here are the verb endings for "avoir" (to have) in the present tense and the past tense:
+		Present tense:
+			- J'ai (I have)
+			- Tu as (You have singular, informal)
+			- Il/Elle/On a (He/She/One has)
+			- Nous avons (We have)
+			- Vous avez (You have plural, formal or informal)
+			- Ils/Elles ont (They have)
+		The past tense of "avoir" is used as an auxiliary verb to form compound tenses such as the passé composé. 
+		Here are the verb endings for "avoir" in the passé composé:
+		Past tense:
+			- J'ai eu (I had)
+			- Tu as eu (You had singular, informal)
+			- Il/Elle/On a eu (He/She/One had)
+			- Nous avons eu (We had)
+			- Vous avez eu (You had plural, formal or informal)
+			- Ils/Elles ont eu (They had)
+			
+			
+
+TIME MARKERS (PAST/PRESENT/FUTURE TENSE)
+
+hier					yesterday
+hier matin				yesterday morning
+hier après-midi			yesterday afternoon
+avant-hier				the day before yesterday
+il y a quelques jours	few days ago
+il y a trois jours		three days ago
+le week-end dernier		Last weekend
+la semaine dernière		last week
+l'année dernière		last year
+le mois dernier			Last month
+
+
+
+
+Module 6 grammar recap - Recapitulatif de grammaire:
+	Passé Composé - Use: When to use this past tense:
+		Passé Composé
+			One-time event
+				À 18 ans, j'ai terminé l'école secondaire : I finished high school at 18
+			
+			Actions
+				Main events or actions of a story
+				Hier, je suis allé au cinéma. Puis, je suis rentré et j'ai mangé le diner: yesterday I went to the movie. Then, I went back home and ate dinner
+				
+			Interrupting action
+				Je faisais de la guitare lorsque le téléphone a sonné: I was playing guitar when the phone rang
+	
+	
+	Passé Composé - Composed past tense
+		The passé composé is composed of 2 elements: the present tense of an auxiliary verb (either avoir or être) followed by a past participle:
+			Subject + present tense of auxiliary + past participle 
+			J'ai joué 		- I (have) played
+			il est allé 	- He (has) gone / he went
+				
+		For regular verbs with an infinitive ending in -er, the past participle is formed by replacing the final -er of the infinitive with -é 
+		Note that in most instances the auxiliary verb is avoir, but some verbs require être as the auxiliary
+		
+	
+	Passé Composé - Auxiliaire avoir
+		Note that in most instances the auxiliary verb is avoir
+		Note that the past participle does not agree with the subject but it can in specific structures that will not be tackled in this course
+		
+		J'ai joué
+		Tu es étudié
+		Elle/il a mangé
+		Nous avons regardé
+		Vous avez parlé
+		Elles/Ils ont porté
+		
+		
+		
+	Passé Composé - IR (2nd category verbs)
+		-IR regular 2nd category verbs at the past tense:
+			The past participle of regular verbs with an infinitive ending in -ir is formed by dropping the final -r from the infinitive. For example, the past participle of finir is fini 
+			
+			j'ai fini 					- I (have) finished
+			tu as fini					- You (have) finished
+			il, elle / on a fini 		- He, she (it) / one (has) finished
+			nous avons fini 			- We (have) finished
+			vous avez fini				- You (have) finished
+			ils / elles ont fini		- They (have) finished
+			
+	
+	
+	Passé Composé - Negation	
+		The negation of the passé composé is formed by placing ne ... pas around the conjugated verb, which, for this past tense, is either the auxiliary avoir or être
+			J'ai joué 		- je n'ai pas joué
+			Elle a choisi	- elle n'a pas choisi
+			
+			
+	Passé Composé - Auxiliare être
+		Passé Composé with être
+			However, all reflexive verbs require the auxiliary être instead
+				Je me suis levé(e)
+				Tu t'es levé(e)
+				Elle s'est levée
+				Il s'est levé 
+				Nous nous sommes levés (es)
+				Vous vous êtes levés(es)
+				Elles se sont levées
+				Ils se sont levés
+			
+			Several verbs of movement like aller (to go), entrer (to go in), sortir (to go out) will also require the auxiliary être
+			
+				Je suis allé(e)
+				Tu es sorti(e)
+				Elle est allée
+				Il est rentré
+				Nous sommes allés (es)
+				Vous êtes sortis (es)
+				Elles sont allées
+				Ils sont rentrés
+				
+			Note that with être the past participle agrees with the subject in number and in gender but there are exceptions (not tackled in this course)
+			
+	
+	
+	Passé Composé - Auxiliary être
+			All these following verbs are using the auxiliary être + their past participle:
+				Mourir
+				Partir
+				Monter
+				(Re)venir
+				Aller
+				Arriver
+				(R)entrer
+				Tomber
+				Descendre
+				Sortir
+				Rester
+				Passer
+				Naître
+			
+			
+			
+	Passé Composé - Auxiliary être
+		All these following verbs are using the auxiliary être + their past participle
+			Les verbes conjugués avec être
+			
+			Infinitif				Participle passé
+				Devenir					Devenue(e)(s)
+				Revenir					Revenu(e)(s)
+				Monter					Monté(e)(s)
+				Rentrer					Sorti(e)(s)
+				Sortir					Venu(e)(s)
+				Venir					Arrivé(s)(s)
+				Arriver					Né(e)(s)
+				Naître					Descendu(e)(s)
+				Descendre				Entré(e)(s)
+				Entrer					Retourné(e)(s)
+				Retourner				Tombé(e)(s)
+				Entrer					Allé(e)(s)
+				Tomber					Mort(e)(s)
+				Rester					Parti(e)(s)
+				Aller
+				Mourir
+				Partir
+				
+				
+	
+	Passé Composé - Negation
+		The negation of the passé composé is formed by placing ne ... pas around the conjugated verb, which, for this past tense, is either the auxiliary avoir or être
+			J'ai joué 		- je n'ai pas joué
+			Il est allé 	- il n'est pas allé
+
+		Be areful with the reflexive verbs, the reflexive pronoun is attached to the auxiliary être
+			Je me suis levé		- Je ne me suis pas levé
+			Elle s'est levée 	- Elle ne s'est pas levée 
+			
+			
+	
+	Passé Composé - Verbs to memorize
+		You have to memorize the conjugation of the verbs that you have learned during this course:
+			Tu as eu 			(avoir)
+			j'ai fini			(finir)
+			tu as mangé 		(-er regular verbs)
+			il s'est levé 		(all reflexive verbs tackled in class)
+			J'ai fait 			(faire)
+			Tu as pris 			(prendre)
+			Elle a bu			(boire)
+			Elles ont été 		(être)
+			Nous avons porté	(porter)
+			Vous avez pu		(pouvoir)
+			Ils ont dû			(devoir)
+			Nous sommes allés   (es) (aller)
+			Vous avez mis		(mettre)
+			Ils ont voulu		(vouloir)
+			
+			
+	
+	Marqueurs temporels / time markers:
+		Hier						Yesterday
+		Hier matin					Yesterday morning
+		Hier après-midi				Yesterday afternoon
+		
+			
+			
+Zoom call on May 08, 2022:
+	Passé composé
+		avoir:
+			j'ai mangé			- je n'ai pas mangé
+			nous avons étudié
+			ty as faut
+			
+		être:
+			je suis allé(e) 	- je ne suis pas allé
+			elle est allée
+			nous sommes allés
+			
+		je me suis levé - je ne me suis pas levé(e)
+		nous nous sommes couchés - nous ne nous sommes pas couchés
+		
+		
+		5 questions:
+			Quand			- When
+			Où				- Where
+			Quel (le)		- Which
+			Qui				- Who
+			Que				- What
+			
+		
+		2 questions with answers for the first 2
+			Quand as-tu allé nager le week-end dernier  	- Where did you go swimming last weekend?
+			Où as-tu mangé dîné hier?						- Where did you eat dinner yesterday?
+			
+		
+		Quel jour avez vous fait du vélo?
+		Avec qui avez vous mangé
+		Qu'avez vous mangé pour le souper? Vous avez mangé
+		Que mangez vous pour le souper?
+		
+		j'ai aimé 		- I liked
+		j'ai mangé 		- I ate
+		Quel chapeau aimes-tu?	Quel chapeau as-tu aimé?
+		
+		
+		Farmer head in crate story:
+			A small step ladder broke and he fell into the egg crate - Un petit escabeau s'est cassé et il est tombé dans la caisse à œufs. 
+			
+		
+		Common quiz mistakes:
+			se reveiller : il s'est réveillé 
+			la salade
+			le salade
+			un peu de ... 
+			il mange un peau de légumes
+			je ne bois pas d'eau
+			
+			une tasse de lait
+			je mange un dessert (sweet food)
+			...		 un désert	(sandy landscape)
