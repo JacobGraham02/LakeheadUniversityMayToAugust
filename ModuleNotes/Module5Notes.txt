@@ -5,7 +5,7 @@ Partitive articles - https://www.laits.utexas.edu/tex/gr/det5.html:
 		de l' (masculine/feminine starting with a vowel) for 'some' 
 		
 	Uses:
-		Partitive articles are used to express quantites that cannot be counted. 
+		Partitive articles are used to express quantites that cannot be Choose between : le/la/les/un/une/des/du/de la/de l'/de/no articlepoucounted. 
 		Definite article refers to a specific thing, indefinite article refers to a general thing. 
 		Partitive article denotes a part of a whole. 
 		

@@ -777,7 +777,8 @@ https://leflepourlescurieux.fr/prepositions-a-et-chez-grammaire-a1/:
 		Elle est à l'épicerie				Elle est chez l'épicier
 		Je vais au marché					Vous allez chez le coiffeur
 		Elle va aux halles					Elle est chez le médecin
-		Ils vont á l'université				Je vais chez ma mére
+		Ils vont á l'université				Je vais chez ma méreToute la famille (se coucher)
+
 		Nous sommes à la maison				Il est chez ses parents
 		Je suis à la bibliothéque			Je vais chez moi
 		
